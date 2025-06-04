@@ -1,0 +1,1001 @@
+timestamp,channel,region,customer_id,rating,message,compound_score,sentiment
+2025-06-03T10:53:00.518712,email,UK,a5a6d23f-8b2a-4871-b850-ab628b0202b3,1,App crashed,0.0,neutral
+2025-05-29T00:11:00.518712,app,US,d12b10f7-93bf-445f-b1a2-f5106d26f563,3,Average,0.0,neutral
+2025-06-03T11:34:00.518712,web,US,21e9401d-f497-432b-9b0c-54bde3a69506,5,Loved the product,0.5994,positive
+2025-05-30T19:59:00.518712,email,US,dff38ed7-1f21-4e72-bf78-180cb6f25d52,1,App crashed,0.0,neutral
+2025-06-02T07:39:00.518712,email,AU,1678f6bd-8f6a-4ac5-9f20-7da08822af15,2,Not great,-0.5096,negative
+2025-06-02T21:53:00.518712,survey,AU,086431eb-7b21-4cd9-a9df-1176772460a5,1,Terrible experience,-0.4767,negative
+2025-05-29T03:07:00.518712,survey,UK,26d69fb9-21d0-42c6-a80b-dc8a19248531,5,Excellent!,0.6114,positive
+2025-06-01T08:40:00.518712,survey,US,f262a039-0911-44d9-870a-6b20d2ef5708,5,Loved the product,0.5994,positive
+2025-05-29T08:41:00.518712,survey,US,be891967-57cb-4ae5-95a6-6df4afe0080b,2,Slow response,0.0,neutral
+2025-05-28T17:15:00.518712,web,IN,7ade9d15-de97-43ca-af40-0c97f1fd3e33,4,Good experience,0.4404,positive
+2025-05-28T14:44:00.518712,app,AU,3ff256d2-4b77-4751-827e-9a22a47f4a1c,5,Loved the product,0.5994,positive
+2025-05-28T11:17:00.518712,survey,UK,7d85a30a-801e-41c9-9cf2-09982d81c22c,1,App crashed,0.0,neutral
+2025-05-30T02:16:00.518712,app,US,450084d8-67cf-431e-b1ba-3c5a556eb93f,5,Excellent!,0.6114,positive
+2025-05-28T04:57:00.518712,survey,US,5cc575b7-9a75-4ddb-9a8a-d5aab8ae5488,3,Average,0.0,neutral
+2025-06-03T10:14:00.518712,email,AU,bad580c8-27fd-4a94-8aa7-48529d32f068,5,Excellent!,0.6114,positive
+2025-06-01T11:50:00.518712,web,US,6e3314fc-5098-404b-923b-f611d8f4d093,2,Not great,-0.5096,negative
+2025-05-28T13:25:00.518712,email,US,40aacd08-3397-48ea-8269-fde43ee58502,2,Not great,-0.5096,negative
+2025-05-29T04:39:00.518712,app,US,2ae8708b-c56f-4114-a716-b7327173ac64,4,Nice UI,0.4215,positive
+2025-06-03T07:02:00.518712,email,US,5ca18e8b-d4b4-45df-83e6-db305eea6035,1,Terrible experience,-0.4767,negative
+2025-05-30T14:45:00.518712,app,UK,b1e65ba4-f223-468c-94e7-fac55800270b,1,App crashed,0.0,neutral
+2025-06-01T20:49:00.518712,app,AU,d7450531-3d77-4352-8c88-3358aff7d8d3,4,Good experience,0.4404,positive
+2025-06-03T02:45:00.518712,email,IN,2fc49665-f1c4-490a-be1c-fd358a954287,2,Slow response,0.0,neutral
+2025-06-02T07:15:00.518712,web,IN,63d5db6a-89a9-4dc6-bba7-9a00bc2dd0be,5,Excellent!,0.6114,positive
+2025-06-02T10:10:00.518712,app,US,13898ce7-6487-452e-8b60-0636d0e575f9,2,Slow response,0.0,neutral
+2025-05-30T06:19:00.518712,web,UK,6de46dde-f97d-4ef9-8a90-0e1b5f263712,1,App crashed,0.0,neutral
+2025-05-31T22:02:00.518712,app,IN,f038c6d8-4c32-4a78-bcaf-2fc45c760b96,1,Terrible experience,-0.4767,negative
+2025-06-01T21:24:00.518712,web,UK,f37030fc-b4ce-40d1-84b4-fd117f479e0f,3,Average,0.0,neutral
+2025-06-01T20:36:00.518712,web,AU,31754d95-3c0a-478b-832f-b6c7f8d62788,4,Nice UI,0.4215,positive
+2025-05-31T14:56:00.518712,email,IN,8c1e4c98-3452-4ab3-8bf1-65993ca78618,1,Terrible experience,-0.4767,negative
+2025-06-03T23:01:00.518712,web,US,caf1b9c0-f3b0-4900-bea5-8d37de25ab0a,1,App crashed,0.0,neutral
+2025-06-03T19:11:00.518712,web,US,b57f3c7e-eae6-47a0-b779-7c7753f5ab80,4,Good experience,0.4404,positive
+2025-05-31T08:09:00.518712,survey,UK,7b1ab76b-b49d-45ae-bb3f-9b6ae9682a57,3,Okay,0.2263,positive
+2025-05-31T08:06:00.518712,app,IN,cb6403f2-6955-4148-a840-9c43a9c607f3,5,Loved the product,0.5994,positive
+2025-06-03T12:22:00.518712,email,UK,6560a471-beef-412d-8f9e-f890ea889b3a,4,Nice UI,0.4215,positive
+2025-06-02T06:32:00.518712,web,AU,a1e1e0f4-98be-482d-9f4c-1208a48a4957,1,Terrible experience,-0.4767,negative
+2025-06-01T04:01:00.518712,web,IN,7fd9f1c0-1f49-4645-9d0d-ef8822e7248d,5,Loved the product,0.5994,positive
+2025-06-01T11:17:00.518712,web,US,54413ebd-8eb8-4bb8-9dc3-508e9bbf8766,1,App crashed,0.0,neutral
+2025-05-28T16:33:00.518712,email,IN,30e4c074-f0eb-4f5e-be12-1e527062b722,4,Nice UI,0.4215,positive
+2025-06-01T21:07:00.518712,survey,AU,4271d438-10e6-49fe-b6f7-3310920866d6,2,Slow response,0.0,neutral
+2025-06-03T19:35:00.518712,web,IN,6c85c082-d421-4007-9fd2-52a9bee24f0d,1,App crashed,0.0,neutral
+2025-06-02T12:52:00.518712,web,AU,9fe32e2c-cbbd-4383-ab0c-4e9e16a31c0f,3,Okay,0.2263,positive
+2025-06-01T01:09:00.518712,email,AU,45c015e2-81db-4820-8a71-ec2bf9c31447,1,App crashed,0.0,neutral
+2025-05-28T20:27:00.518712,web,IN,7df7f876-7fcd-47cd-8d03-ed32e88d71a7,5,Excellent!,0.6114,positive
+2025-06-02T18:27:00.518712,survey,IN,00325ae5-d771-4761-86f5-71b90099ae4b,1,Terrible experience,-0.4767,negative
+2025-05-29T11:24:00.518712,survey,UK,a9625ebb-399f-4387-8f42-dcd465863908,4,Good experience,0.4404,positive
+2025-06-02T16:06:00.518712,app,UK,575e057e-2c84-494c-8359-79b73928e380,3,Okay,0.2263,positive
+2025-05-31T07:30:00.518712,web,UK,b4955c89-4c0b-4b07-bfbc-cd364883d98d,5,Loved the product,0.5994,positive
+2025-06-02T16:15:00.518712,app,AU,01d28c4a-eba0-4c6e-96b0-6a1ee906955a,2,Slow response,0.0,neutral
+2025-06-01T09:13:00.518712,web,AU,e7ced4dc-c984-4661-9950-2b321739f0a5,3,Okay,0.2263,positive
+2025-06-03T14:44:00.518712,email,US,4359212c-f714-4a2d-827c-42d227106226,1,App crashed,0.0,neutral
+2025-05-30T02:42:00.518712,app,IN,8db5279b-239d-438c-a7ab-c1facbbbfe99,1,Terrible experience,-0.4767,negative
+2025-06-02T04:55:00.518712,survey,UK,0dab98b0-73d5-4077-bf4e-ed75451ae765,1,App crashed,0.0,neutral
+2025-05-29T13:07:00.518712,email,IN,8097d6aa-e035-4c5f-9a03-eb08cc59a137,2,Not great,-0.5096,negative
+2025-05-29T23:12:00.518712,app,AU,03ffbdd7-2537-458e-aa47-037864f34f79,1,App crashed,0.0,neutral
+2025-05-31T19:59:00.518712,email,UK,b08d3ed9-b851-455b-920a-d3d439ae6d8d,1,App crashed,0.0,neutral
+2025-05-31T17:22:00.518712,app,AU,3b5b6afd-59ce-4b19-aa29-64ad80ef622d,3,Okay,0.2263,positive
+2025-06-03T23:23:00.518712,email,UK,8d427754-1433-428d-818a-8f386fab37e5,5,Loved the product,0.5994,positive
+2025-05-28T14:41:00.518712,app,UK,4caa9bc3-df9e-4d00-9da6-2b093f14507f,2,Not great,-0.5096,negative
+2025-06-02T08:10:00.518712,web,IN,fc411653-693b-4f69-8120-01c2c98252bb,1,App crashed,0.0,neutral
+2025-05-29T13:27:00.518712,app,US,d40b321a-f525-4027-9562-8ed0e96dcfc9,4,Nice UI,0.4215,positive
+2025-05-31T00:52:00.518712,web,US,a329f04c-bd01-414f-b06d-5d43dbfcbddf,3,Average,0.0,neutral
+2025-05-30T02:55:00.518712,app,IN,ddf05334-72c9-4aca-b572-b8cbcbe74b2c,2,Slow response,0.0,neutral
+2025-05-28T08:15:00.518712,web,IN,0fb8bac0-526c-4b06-a05c-6d7ad85db64c,4,Good experience,0.4404,positive
+2025-05-30T06:09:00.518712,email,AU,6fc4cd60-6c20-41ed-8115-994d93910cc9,1,Terrible experience,-0.4767,negative
+2025-06-01T12:08:00.518712,survey,UK,576696d6-5b0c-42f7-9af0-47a7a33ff6cc,3,Okay,0.2263,positive
+2025-06-02T20:30:00.518712,app,US,ba727250-160b-4aa7-ac19-c7666f6a8fb6,3,Okay,0.2263,positive
+2025-05-30T02:07:00.518712,survey,AU,dafbad17-7e77-48ea-a385-caae33044094,4,Nice UI,0.4215,positive
+2025-06-01T19:28:00.518712,app,US,3d889639-313b-4b1e-979c-d312f9b10ec9,1,App crashed,0.0,neutral
+2025-05-28T07:39:00.518712,web,US,51e244f5-f154-43bf-9abd-0181391c50e6,4,Nice UI,0.4215,positive
+2025-05-30T10:17:00.518712,survey,AU,b3b20038-e77f-4df8-a564-734c8ff54f51,1,Terrible experience,-0.4767,negative
+2025-06-03T22:33:00.518712,email,US,5529938f-ffdc-4217-902c-3488ea2ce017,4,Nice UI,0.4215,positive
+2025-06-01T10:34:00.518712,email,AU,650227b8-15a2-4112-8b6c-3707167a2784,3,Okay,0.2263,positive
+2025-05-28T22:23:00.518712,email,IN,879e25c9-4c6e-4d6d-82a4-0ac4db84610f,5,Loved the product,0.5994,positive
+2025-05-31T11:42:00.518712,email,UK,ef1f501b-e0ff-4a81-88f0-dddf30708d0e,2,Not great,-0.5096,negative
+2025-06-03T05:38:00.518712,web,UK,12ae5ec6-291f-4e44-9337-0966ea11252d,4,Good experience,0.4404,positive
+2025-05-30T20:37:00.518712,email,US,eae2b39f-6974-4930-aad8-ed527325c596,1,App crashed,0.0,neutral
+2025-06-01T05:32:00.518712,app,AU,4945444d-19d8-42e0-8283-189f93e45a79,3,Okay,0.2263,positive
+2025-06-02T02:19:00.518712,survey,US,06ff4442-587b-4d96-afb1-3b405a2805de,1,App crashed,0.0,neutral
+2025-05-30T04:30:00.518712,email,IN,6f581e7f-cbc9-4de7-8973-700aea105a77,3,Okay,0.2263,positive
+2025-05-31T03:11:00.519707,app,UK,8b79f717-42eb-4f0a-a2e2-6a8e15e0940d,1,App crashed,0.0,neutral
+2025-06-02T19:43:00.519707,survey,AU,f944940e-274b-4eb4-9a46-3f683e4d4c7e,2,Not great,-0.5096,negative
+2025-06-04T01:35:00.519707,web,US,6f48ec08-1dfc-4ca3-b429-7be5090f0a84,4,Nice UI,0.4215,positive
+2025-05-29T11:25:00.519707,app,IN,433bf8a6-3da4-49c1-b8e4-f0ae7957d354,3,Average,0.0,neutral
+2025-05-28T23:01:00.519707,app,US,8d03cedb-90ad-40e2-9624-e8244857b119,2,Not great,-0.5096,negative
+2025-05-29T10:43:00.519707,email,UK,58f54fc6-3cbc-4e06-bc73-375243d03c1c,4,Good experience,0.4404,positive
+2025-06-01T17:58:00.519707,app,IN,0f55cc17-cdf6-4693-b4e0-f14f2d30a103,1,App crashed,0.0,neutral
+2025-05-31T04:21:00.519707,app,IN,0d78aaa2-3176-4464-a74f-144af66d07d4,5,Loved the product,0.5994,positive
+2025-05-28T17:25:00.519707,survey,IN,1dd90f4c-d6ae-43e4-b7cd-059b23f7cd74,2,Not great,-0.5096,negative
+2025-06-02T17:25:00.519707,app,AU,fef28b68-4c86-4e5d-a55e-f6ea1a35dc6f,2,Slow response,0.0,neutral
+2025-06-03T06:25:00.519707,email,UK,e4e060eb-fedb-41bb-8827-a68baff33759,1,App crashed,0.0,neutral
+2025-05-28T14:51:00.519707,web,IN,08740bdb-5d33-4ef7-b180-65acbae982ed,1,App crashed,0.0,neutral
+2025-05-31T01:52:00.519707,web,UK,d9a3db36-3bba-46f3-ae3f-ae562acf005e,5,Excellent!,0.6114,positive
+2025-06-02T05:24:00.519707,email,IN,02ef609b-5770-4b7a-8e8a-04584ff9256b,3,Average,0.0,neutral
+2025-06-02T04:33:00.519707,web,US,4a9d0e74-4f1c-402c-817e-8e71c620a82b,2,Not great,-0.5096,negative
+2025-05-31T12:16:00.519707,web,AU,c121193d-bc23-429a-acd8-f10917f78d8b,2,Slow response,0.0,neutral
+2025-05-30T14:14:00.519707,app,AU,7f8b9446-defe-430a-b75d-8779e2fa09e2,1,Terrible experience,-0.4767,negative
+2025-05-31T03:37:00.519707,email,AU,3ff074e5-acbc-47c8-a490-cf99269220ef,3,Okay,0.2263,positive
+2025-05-30T11:45:00.519707,email,AU,e498055d-c9b8-4fe6-aadd-09c2d346f05a,1,App crashed,0.0,neutral
+2025-06-01T10:12:00.519707,email,IN,c0703a3e-60f9-4933-90b4-41cad129e8b7,4,Good experience,0.4404,positive
+2025-06-01T11:42:00.519707,survey,US,5add505e-9e3b-44f2-9451-b4349890363a,2,Not great,-0.5096,negative
+2025-06-01T19:32:00.519707,survey,UK,e03ad725-683d-41c1-ab61-e08130571544,5,Loved the product,0.5994,positive
+2025-06-03T19:47:00.519707,app,IN,5db6e12f-983c-420b-bb6e-edd8485641ea,2,Slow response,0.0,neutral
+2025-05-28T12:57:00.519707,app,IN,9a64dce3-64c8-4148-86b2-a2c46cae1824,3,Okay,0.2263,positive
+2025-05-28T21:41:00.519707,app,US,012e42de-d345-40e7-b02b-6d8c3001fba4,5,Excellent!,0.6114,positive
+2025-06-01T00:15:00.519707,app,IN,b107d38a-e66b-4f13-adaf-4aed16bd91de,4,Nice UI,0.4215,positive
+2025-05-28T22:02:00.519707,web,US,6c1cbb8a-bafa-465d-94fd-42bcec1e0bdf,4,Nice UI,0.4215,positive
+2025-06-03T14:03:00.519707,web,IN,1f3327b2-baeb-4aca-989e-db6d5c07832b,5,Loved the product,0.5994,positive
+2025-05-29T02:04:00.519707,survey,AU,69d714bd-6e24-4f6f-9392-a2e1792a61c2,5,Loved the product,0.5994,positive
+2025-05-31T19:17:00.519707,web,UK,5344e1bb-1ed1-4db0-a4cf-af5d29309611,4,Nice UI,0.4215,positive
+2025-05-29T13:53:00.519707,email,AU,f254aca0-a66d-43e4-b434-05ab643ba3fc,3,Average,0.0,neutral
+2025-05-28T07:52:00.519707,web,US,c5a12bef-fceb-4670-99f6-4b6b94115b38,4,Good experience,0.4404,positive
+2025-05-29T14:18:00.519707,email,AU,8887544b-dc62-45c4-a8a3-a8f4508a0bda,3,Okay,0.2263,positive
+2025-05-29T23:52:00.519707,app,IN,32ae0f13-6c8a-41c1-ac48-0c7a7f43d70f,1,App crashed,0.0,neutral
+2025-05-31T12:09:00.519707,app,US,d081554c-fe8b-402a-88fe-008d050637b3,3,Average,0.0,neutral
+2025-05-30T16:26:00.519707,web,IN,6d678de9-9ce6-4ce8-a1d4-9c5dcb7f58d7,2,Not great,-0.5096,negative
+2025-05-31T07:00:00.519707,web,UK,d214b882-7657-4ebd-a5e9-291c9b0bbe35,3,Okay,0.2263,positive
+2025-06-03T02:35:00.519707,email,AU,3bc68fd6-d9f2-4d3d-967a-1eeaa7433e55,2,Slow response,0.0,neutral
+2025-06-02T15:08:00.519707,survey,AU,16c040d4-076e-4cad-9520-ac2c5897d900,3,Okay,0.2263,positive
+2025-05-29T18:42:00.519707,email,US,9c611a88-0780-4bde-aee3-3539b8c45a4e,3,Average,0.0,neutral
+2025-05-29T20:42:00.519707,app,US,bd9811f1-7837-4b1d-b3fd-2496844e1ece,5,Loved the product,0.5994,positive
+2025-05-29T05:39:00.519707,app,US,60719afa-de7e-4642-b6a9-258be55a726e,3,Average,0.0,neutral
+2025-06-02T10:45:00.519707,web,US,3c56a85b-a22a-4dc4-bc96-4c03712f0dd2,5,Excellent!,0.6114,positive
+2025-05-29T17:47:00.519707,email,IN,7ce643ac-037b-4fff-969d-6884754427e3,2,Slow response,0.0,neutral
+2025-06-01T05:46:00.519707,survey,IN,3952de84-94cf-4034-8ec5-c8211cd7f8be,3,Okay,0.2263,positive
+2025-06-02T19:17:00.519707,survey,UK,e656a2f3-db5a-4781-bf51-1e663c1b145f,2,Not great,-0.5096,negative
+2025-06-02T01:11:00.519707,email,AU,c13b5f6b-61f5-4474-9091-6ec3c4506fcc,2,Not great,-0.5096,negative
+2025-05-29T16:58:00.519707,email,US,69e2015f-39d0-4f54-8a94-c6f5501a6d6d,2,Slow response,0.0,neutral
+2025-05-30T20:35:00.519707,web,US,d9513302-23d9-4cd3-ab21-39c25cc82836,3,Okay,0.2263,positive
+2025-05-28T11:35:00.519707,app,US,cc4e867b-e148-4b77-8b1d-37bf53512a44,4,Nice UI,0.4215,positive
+2025-05-29T23:52:00.519707,app,UK,f382db16-4dcd-49af-9958-958d866d481f,2,Not great,-0.5096,negative
+2025-05-30T05:15:00.519707,survey,UK,2a65b7f7-6477-415d-80d3-698622b27047,4,Good experience,0.4404,positive
+2025-06-01T10:52:00.519707,app,US,4f66d8db-0e8f-4d52-85cd-f630ceaf600a,5,Excellent!,0.6114,positive
+2025-05-31T17:05:00.519707,survey,AU,99b56567-48f8-4b0e-8855-202938e91026,1,App crashed,0.0,neutral
+2025-06-01T12:15:00.519707,web,AU,a3e1ba18-945c-49fb-8496-1b1c8343ef9f,3,Average,0.0,neutral
+2025-05-30T12:42:00.519707,email,AU,8c1da41c-3d8e-487c-95c6-5c2df4b30558,3,Average,0.0,neutral
+2025-05-31T14:41:00.519707,survey,IN,898c2bb5-dab0-4616-861f-6e5d6f12517a,2,Slow response,0.0,neutral
+2025-05-31T17:21:00.519707,email,IN,6303d370-df8f-430f-985e-fe49c1f2367e,1,App crashed,0.0,neutral
+2025-06-01T11:25:00.519707,web,AU,af74ccb7-9e66-4b8e-a0af-a334a25073de,3,Okay,0.2263,positive
+2025-06-03T17:39:00.519707,survey,AU,ea18e2f0-6b02-4bf0-9bcd-710b42220b0d,4,Good experience,0.4404,positive
+2025-05-31T03:31:00.519707,app,IN,8332b855-d404-4d4f-a096-7b3828c338cd,2,Slow response,0.0,neutral
+2025-06-02T03:13:00.519707,email,UK,c088ec16-ee65-48f6-9c23-c99765c900a8,3,Okay,0.2263,positive
+2025-06-02T06:27:00.519707,app,US,2b024751-8144-495c-900d-ee4c7f3b416b,1,Terrible experience,-0.4767,negative
+2025-06-03T23:24:00.519707,email,AU,59801ce1-0c0a-401c-ab3b-c10d8a96474b,4,Good experience,0.4404,positive
+2025-05-29T07:21:00.519707,email,AU,4d571bb6-78e8-4b5f-b271-04aabc523463,4,Nice UI,0.4215,positive
+2025-06-01T03:40:00.519707,email,IN,9a4b56a5-f6e2-4b2f-8308-fbd6413180e4,2,Not great,-0.5096,negative
+2025-05-28T08:21:00.519707,email,UK,19f702f8-2357-4ad9-a09a-808c04ec2466,1,Terrible experience,-0.4767,negative
+2025-06-03T22:44:00.519707,web,UK,16a453be-4154-4f4d-a88f-16d91ece4429,4,Good experience,0.4404,positive
+2025-06-01T13:30:00.519707,app,UK,3ab86df6-b447-4b5a-b0ab-fa53cfda52ed,4,Nice UI,0.4215,positive
+2025-06-01T15:54:00.519707,email,US,1be04b84-1181-4dff-9e02-d579e78d48c4,5,Excellent!,0.6114,positive
+2025-05-30T13:01:00.519707,email,US,2882841f-00ce-42e1-a5ea-7b51debd5e3a,5,Excellent!,0.6114,positive
+2025-05-31T02:38:00.519707,app,US,6bf30316-19ba-4855-ab00-d7c480828bd8,2,Slow response,0.0,neutral
+2025-05-28T04:33:00.519707,app,AU,09c38385-443a-426f-856d-6418369135f2,1,Terrible experience,-0.4767,negative
+2025-05-31T10:07:00.519707,survey,IN,0f3b50f6-6af3-4dc7-b0d5-5fb214d0b2bf,2,Not great,-0.5096,negative
+2025-05-28T19:42:00.519707,app,AU,c0f56ab3-f296-468c-a5de-4b4519a7e105,3,Okay,0.2263,positive
+2025-06-02T02:27:00.519707,app,US,e2a2aa0e-5ecb-4db1-9f69-0d37f86c0457,4,Good experience,0.4404,positive
+2025-06-02T03:57:00.519707,email,IN,6352f17a-a2c9-491b-8833-5dcbc2213435,5,Loved the product,0.5994,positive
+2025-05-30T16:23:00.519707,email,UK,a7a99a67-826e-4b10-afef-d453a0834b72,3,Average,0.0,neutral
+2025-06-01T18:11:00.519707,app,IN,f4d1b4b5-130a-44f7-80c9-42edbf911048,2,Not great,-0.5096,negative
+2025-06-04T02:44:00.519707,survey,US,a23e2a77-3e96-415d-853b-76844cb5dc91,3,Okay,0.2263,positive
+2025-05-29T16:14:00.519707,survey,AU,92aff0c1-37f0-469a-9926-3e6e3b72d2dd,4,Nice UI,0.4215,positive
+2025-05-28T22:27:00.519707,survey,IN,22ab2e24-a072-4bd8-84a0-09185d3e86b4,5,Excellent!,0.6114,positive
+2025-06-02T19:38:00.519707,survey,IN,88a00f4c-d249-4e20-a578-97d6fb4567de,5,Loved the product,0.5994,positive
+2025-05-29T13:42:00.519707,survey,IN,b013907e-9749-4a10-91d3-3007f7e76477,1,Terrible experience,-0.4767,negative
+2025-05-29T19:26:00.519707,survey,AU,3029ebf2-a380-4e8e-a166-fa2778f9d685,4,Good experience,0.4404,positive
+2025-06-01T01:59:00.519707,email,IN,3150d566-e2b2-4c46-9a91-c540ce6969d8,4,Nice UI,0.4215,positive
+2025-05-29T15:02:00.519707,email,US,9dcc4cc0-4bfb-4ec5-9bc4-ea4b073ef5c2,2,Not great,-0.5096,negative
+2025-05-31T09:55:00.519707,survey,US,c4752fce-4d76-467f-b57f-4ce6b4846599,5,Excellent!,0.6114,positive
+2025-06-01T07:57:00.519707,app,US,ea9e6a6d-7a11-42f6-b8a2-334caeabbda7,2,Not great,-0.5096,negative
+2025-05-28T21:43:00.519707,email,AU,53793cd9-a584-448e-a80e-ece97cf3a8fa,4,Nice UI,0.4215,positive
+2025-06-03T21:43:00.519707,survey,US,ff2e2bab-c1ad-4310-83cb-3632b6b53b41,1,Terrible experience,-0.4767,negative
+2025-06-01T04:27:00.519707,email,AU,fd440f8e-a24b-46c9-873d-9f3210cc4275,4,Good experience,0.4404,positive
+2025-05-30T21:03:00.519707,email,US,05375027-096f-4a1a-8b0c-f72d451c41e0,5,Excellent!,0.6114,positive
+2025-05-29T21:06:00.519707,survey,IN,fec12960-3f2c-4094-8bc2-2f5640a2b371,3,Average,0.0,neutral
+2025-06-01T18:50:00.519707,app,AU,f08c5c48-1d2b-427c-b9ac-d4cd07a1b56e,5,Loved the product,0.5994,positive
+2025-06-01T15:57:00.519707,web,UK,0503d833-f345-48ed-8ed7-87730d418f90,3,Average,0.0,neutral
+2025-05-29T22:26:00.520703,survey,AU,c5d36bf7-8ab8-44d9-8385-539461887154,2,Not great,-0.5096,negative
+2025-06-01T06:48:00.520703,web,US,7b40ed79-570a-4b25-8fe0-4c663cf533e9,3,Okay,0.2263,positive
+2025-05-31T06:02:00.520703,web,US,fdb14926-2913-4621-9ec0-98105e74bf2c,1,App crashed,0.0,neutral
+2025-05-29T10:42:00.520703,survey,US,2416e357-c576-4755-8cdd-b0af35cdbc61,3,Average,0.0,neutral
+2025-05-31T11:36:00.520703,email,AU,65a0e24e-7611-4453-b8c3-16d6f25c6243,1,App crashed,0.0,neutral
+2025-05-28T09:51:00.520703,email,US,51c201ac-e846-4d1b-ad00-37948b751f9b,5,Excellent!,0.6114,positive
+2025-05-31T05:06:00.520703,email,AU,552efefc-590d-45ce-b84b-9bb6f5ef957e,3,Okay,0.2263,positive
+2025-06-03T10:39:00.520703,email,AU,4fde2b02-ef81-4ad5-b5e7-ba48d56bf1ea,5,Loved the product,0.5994,positive
+2025-05-30T13:55:00.520703,email,IN,a62dbe57-4d70-489f-87c0-d19d2daa0d3c,4,Good experience,0.4404,positive
+2025-05-30T22:03:00.520703,survey,US,d096117d-cc3e-411f-ad86-101e48d0cbcc,2,Slow response,0.0,neutral
+2025-06-04T01:08:00.520703,web,AU,a63f37bc-d119-4990-8b06-575b5e852b5f,4,Good experience,0.4404,positive
+2025-06-01T01:10:00.520703,email,US,831f716a-1ead-408d-a3a7-fdb08f4ba5d4,5,Excellent!,0.6114,positive
+2025-05-30T07:05:00.520703,web,US,4c21e3a1-51fc-41ce-8794-28e8e2c5f291,5,Excellent!,0.6114,positive
+2025-05-31T05:04:00.520703,web,AU,4e2eec12-d68c-4ef4-b18d-4f150999bacc,5,Excellent!,0.6114,positive
+2025-06-03T04:20:00.520703,survey,US,391c193b-a9a8-4afd-bff7-e94fbf7d1d98,3,Average,0.0,neutral
+2025-05-31T07:19:00.520703,web,US,bd478c3f-d98d-448c-ac5e-b5333dc3b62d,5,Excellent!,0.6114,positive
+2025-05-28T16:01:00.520703,web,IN,1845dc2b-3886-43a1-a2d8-77eb80855091,4,Good experience,0.4404,positive
+2025-05-30T12:57:00.520703,survey,AU,01251f56-498f-4723-b404-c179111385e1,4,Nice UI,0.4215,positive
+2025-05-30T11:51:00.520703,app,IN,f34153b0-ccc5-4aae-a3c4-39e601354031,2,Slow response,0.0,neutral
+2025-05-29T09:38:00.520703,web,IN,3b71fd0a-584d-4a2b-a0e6-db0d3e772294,4,Nice UI,0.4215,positive
+2025-06-03T00:18:00.520703,survey,IN,2cee299c-0297-488b-86ec-96859fa137fe,4,Nice UI,0.4215,positive
+2025-05-28T15:22:00.520703,web,IN,be685bd2-9deb-4b40-93db-dd0eb98aa758,3,Okay,0.2263,positive
+2025-05-31T09:56:00.520703,survey,UK,ed56a132-201c-42fa-bb4f-3c174c4c1717,2,Slow response,0.0,neutral
+2025-05-30T11:34:00.520703,app,UK,cae9b922-3919-4092-b3dd-9465d3e5e846,1,App crashed,0.0,neutral
+2025-05-28T07:37:00.520703,web,US,f69edbed-6fb4-4111-8c30-c94537c78279,5,Excellent!,0.6114,positive
+2025-06-02T20:20:00.520703,email,AU,bfefb936-f389-43f9-929d-5732b86330ac,2,Not great,-0.5096,negative
+2025-05-30T23:35:00.520703,web,US,b8a972a8-49d3-471e-8a3e-51275f31fd61,3,Okay,0.2263,positive
+2025-05-30T16:26:00.520703,survey,US,45bb61b9-5103-445a-8ae1-d5f67750d052,3,Okay,0.2263,positive
+2025-06-02T02:09:00.520703,survey,UK,09b1344b-86a2-4c20-8a52-ba06c6b1560f,2,Slow response,0.0,neutral
+2025-06-02T12:08:00.520703,email,AU,536f288d-da23-4fce-87bd-dda42548a818,3,Okay,0.2263,positive
+2025-05-29T12:04:00.520703,email,UK,a08f9a4d-9b38-4fcf-ae84-4c83773dc750,3,Average,0.0,neutral
+2025-06-03T02:28:00.520703,survey,IN,46783cfe-c9b2-46e1-a86a-35bd951e622d,1,App crashed,0.0,neutral
+2025-05-31T02:05:00.520703,web,AU,4285c9a7-97f0-457b-88ad-4798e166ad8e,2,Slow response,0.0,neutral
+2025-05-30T14:30:00.520703,survey,US,a82007e1-c759-4aa4-b364-f911a8eec9bc,5,Excellent!,0.6114,positive
+2025-06-03T10:01:00.520703,app,US,9a065cd7-b16e-49f7-8825-3e9a28549d26,2,Not great,-0.5096,negative
+2025-06-01T00:20:00.520703,web,IN,07594a58-7e58-45ac-a272-cb9bde266b90,3,Okay,0.2263,positive
+2025-05-28T14:07:00.520703,survey,US,fb278db3-36cf-45c0-8fce-e7c53936a273,5,Loved the product,0.5994,positive
+2025-06-04T02:24:00.520703,app,US,986f0614-5dfd-409a-9058-d63f1a8faf00,1,App crashed,0.0,neutral
+2025-06-03T16:07:00.520703,survey,AU,58ac0d2a-a3e9-420a-8bdd-4086fb213219,2,Not great,-0.5096,negative
+2025-05-29T13:30:00.520703,web,US,87477024-453c-49e6-bbd9-58d96dbed4bc,2,Not great,-0.5096,negative
+2025-06-01T05:49:00.520703,survey,UK,a6a6f838-e9bf-4f1b-81e8-e4fcd18f8324,2,Slow response,0.0,neutral
+2025-06-01T16:17:00.520703,app,IN,8c7a5b4f-8670-4835-ab23-3f69159324a6,3,Okay,0.2263,positive
+2025-06-02T06:24:00.520703,email,US,8f1f8e25-73dc-4d14-aebd-6a1eea43c0e2,3,Okay,0.2263,positive
+2025-06-01T12:50:00.520703,web,IN,b034c8d5-5f80-4ada-8468-a1269557d02b,5,Loved the product,0.5994,positive
+2025-05-29T03:39:00.520703,web,IN,bd8c2819-6872-4c27-94f5-f384e2ec5d05,3,Average,0.0,neutral
+2025-05-30T12:55:00.520703,email,US,1ce2db05-ab6b-4d65-9913-4f3069528467,2,Not great,-0.5096,negative
+2025-05-31T03:31:00.520703,app,US,c0b3d74b-cc55-4008-9e14-25bdc138e0d3,2,Not great,-0.5096,negative
+2025-06-01T07:05:00.520703,app,UK,5475ccb7-d633-4bab-932d-5e8b0ef0c2a8,2,Not great,-0.5096,negative
+2025-06-01T14:14:00.520703,web,AU,8e8847f6-f4cf-4b8d-a977-18d737ac1a68,3,Okay,0.2263,positive
+2025-05-31T00:11:00.520703,web,UK,1ebdfa76-6f49-4757-9556-5b1bbbb5d19e,2,Slow response,0.0,neutral
+2025-05-28T13:54:00.520703,app,US,84ac7f89-1d17-4c28-99d2-7848082c39e2,1,Terrible experience,-0.4767,negative
+2025-05-28T20:58:00.520703,email,IN,fcaab9a8-8fbb-45ac-a0c6-70f378bd286e,1,Terrible experience,-0.4767,negative
+2025-06-03T01:15:00.520703,app,US,7e20c811-dd73-44ff-a97e-2ab98eb6cabe,2,Slow response,0.0,neutral
+2025-06-02T02:05:00.520703,survey,AU,94695703-4631-4b71-bdbf-fd95674dc84b,5,Excellent!,0.6114,positive
+2025-05-29T12:17:00.520703,app,US,bc14895e-6ce9-4d04-87a6-da6958e024af,5,Loved the product,0.5994,positive
+2025-05-31T04:41:00.520703,email,UK,0db416c2-2658-4d8b-bac3-440e9742cc2a,4,Good experience,0.4404,positive
+2025-06-01T19:17:00.520703,survey,UK,ccc7900e-3916-4f2c-bbce-2a3945baa75a,4,Good experience,0.4404,positive
+2025-05-29T22:59:00.520703,survey,US,3be46e87-5ff3-4638-9631-a430c813c0ae,1,Terrible experience,-0.4767,negative
+2025-05-31T17:16:00.520703,web,IN,af00afc8-b81d-4759-a31a-b6acb39e1766,4,Good experience,0.4404,positive
+2025-05-28T11:51:00.520703,app,IN,c500b5a8-51aa-4dfd-9d47-34b7e833cc4e,3,Okay,0.2263,positive
+2025-05-31T14:39:00.520703,app,US,2fdc78dc-e62d-4c34-a53a-f1d789ee4031,3,Okay,0.2263,positive
+2025-05-30T18:24:00.520703,web,AU,2b86774d-70e2-42b8-a9e2-94d5de4e5fc9,5,Excellent!,0.6114,positive
+2025-05-29T12:10:00.520703,app,IN,5379ef52-1122-4ef9-bb10-b4693465837a,1,Terrible experience,-0.4767,negative
+2025-06-01T06:23:00.520703,email,US,33768da2-da96-446f-b740-5040386ef134,3,Okay,0.2263,positive
+2025-05-30T13:51:00.520703,email,IN,f0e7c152-dd16-48f4-bdf7-fc6c857154b2,5,Loved the product,0.5994,positive
+2025-06-03T10:48:00.520703,app,US,9e339a93-f129-4bab-97b9-7bb069325f86,2,Not great,-0.5096,negative
+2025-06-01T04:59:00.520703,survey,IN,8e7766cd-55e1-4208-9e0c-b6e4c20ebd4e,2,Slow response,0.0,neutral
+2025-05-29T21:07:00.520703,survey,US,94bfd4e4-f80b-4c86-aa8b-aa61110fb355,1,App crashed,0.0,neutral
+2025-05-30T23:55:00.520703,app,AU,239d1736-dbb5-4fdd-8b94-8a6de14b413f,4,Nice UI,0.4215,positive
+2025-05-28T18:08:00.520703,web,AU,1bc33948-77cd-4230-aca7-e06f0aa4313a,3,Average,0.0,neutral
+2025-05-28T05:04:00.520703,survey,AU,cde1379d-0528-46fa-8dcd-9b2b9ad94248,4,Good experience,0.4404,positive
+2025-06-03T23:46:00.520703,survey,AU,a10f0d28-2bc2-4da6-9350-a11721149311,3,Okay,0.2263,positive
+2025-06-03T22:59:00.520703,app,AU,d7cb0e01-ddfe-4277-8ccf-b092c7cd197b,2,Slow response,0.0,neutral
+2025-06-03T06:07:00.520703,app,US,7dde4f8a-ee35-4cee-a2f2-dea6e8fedf56,2,Slow response,0.0,neutral
+2025-05-31T15:58:00.520703,web,US,9221bd4f-8492-41db-8a79-8eeba550bbbb,1,Terrible experience,-0.4767,negative
+2025-06-03T01:00:00.520703,app,AU,4618a468-72c6-4a2b-b332-bf1a2950b6d5,4,Good experience,0.4404,positive
+2025-06-02T08:18:00.520703,app,AU,ec324f7f-b127-434d-8a28-94e1a684db0b,3,Okay,0.2263,positive
+2025-06-03T17:13:00.520703,survey,AU,fa66006f-658f-4741-a62d-7b5fd5b9ec4e,4,Good experience,0.4404,positive
+2025-05-31T06:28:00.520703,survey,IN,925006e7-0c72-45a9-911d-e6b9f5a0386a,4,Nice UI,0.4215,positive
+2025-06-02T17:50:00.520703,web,UK,5ee8c68a-da2c-417d-bb49-55e9946c5cec,1,App crashed,0.0,neutral
+2025-06-01T13:09:00.520703,survey,AU,29eda852-0128-45af-8399-1a8c3f42f29b,3,Average,0.0,neutral
+2025-06-01T11:49:00.520703,email,UK,1c2ab8c8-ba69-4785-a6d1-3f2fed31c520,4,Good experience,0.4404,positive
+2025-05-28T17:57:00.520703,survey,AU,f52062eb-86c4-4cdd-b096-c03c06c25b64,5,Excellent!,0.6114,positive
+2025-06-01T03:38:00.520703,app,IN,f9c6b46c-32e5-4186-bdc9-d2a5c8c7402d,4,Nice UI,0.4215,positive
+2025-05-30T02:33:00.520703,survey,US,7a445a03-4499-45fb-9d53-059ca48ae266,2,Not great,-0.5096,negative
+2025-05-31T09:20:00.520703,app,IN,3b6456b6-8877-4e56-9c98-1ce3ebfb8e66,1,Terrible experience,-0.4767,negative
+2025-05-30T10:27:00.520703,email,IN,59d60e7f-fb60-4388-889c-cfd06224ea8a,1,Terrible experience,-0.4767,negative
+2025-05-29T02:48:00.521704,survey,US,852939e4-2ed3-4465-a65e-dbe703a694a7,5,Loved the product,0.5994,positive
+2025-06-02T04:25:00.521704,web,UK,fdc9d1cb-81be-4f22-8176-526a7185bccd,5,Loved the product,0.5994,positive
+2025-05-28T23:31:00.521704,survey,IN,0f2d01b5-f1c8-4208-8bbb-4e6bdeb445e0,4,Good experience,0.4404,positive
+2025-05-28T08:37:00.521704,email,AU,82d4d0d1-863f-493c-b98f-48a73f0de7d8,3,Okay,0.2263,positive
+2025-05-29T02:33:00.521704,email,US,8edd0c52-d522-46d4-a1e1-69f16e016418,5,Excellent!,0.6114,positive
+2025-06-02T03:20:00.521704,app,IN,dc406a81-57c2-4dcb-91d4-02215b29d4ea,3,Average,0.0,neutral
+2025-05-30T00:42:00.521704,web,IN,f56f6648-2a53-417b-a1df-90fc30756ed6,5,Excellent!,0.6114,positive
+2025-06-02T14:36:00.521704,app,AU,d5048c94-433e-4976-8412-e12579dbd986,5,Loved the product,0.5994,positive
+2025-06-01T02:24:00.521704,web,UK,4763daf9-6d83-4739-9124-4711df80cacc,3,Average,0.0,neutral
+2025-05-29T18:55:00.521704,app,IN,5e18bf0a-6a36-4cbb-a018-b4720ff30929,4,Nice UI,0.4215,positive
+2025-06-02T22:37:00.521704,email,UK,8b738dcc-08bc-4aed-8a4b-574f7f5a8bea,5,Excellent!,0.6114,positive
+2025-06-03T18:34:00.521704,app,AU,b464d094-979c-434d-af18-49545a0ff3d9,5,Loved the product,0.5994,positive
+2025-06-02T02:28:00.521704,email,IN,34dfb2e7-d28e-46c0-88cc-3606946ec3aa,2,Slow response,0.0,neutral
+2025-05-29T09:33:00.521704,web,AU,76d71197-4b00-49da-9a07-1533361bd487,1,App crashed,0.0,neutral
+2025-05-31T12:58:00.521704,app,UK,e3616a67-03e5-4f70-8947-e48d46b37b45,3,Okay,0.2263,positive
+2025-05-29T04:02:00.521704,survey,AU,4f7b27d3-0cb7-487e-87a7-9d715e892ec5,5,Loved the product,0.5994,positive
+2025-05-29T16:59:00.521704,web,US,7f4961c3-6e77-47f0-92d5-6d31cf18e7af,5,Excellent!,0.6114,positive
+2025-05-28T06:30:00.521704,survey,UK,c73fdfa0-d058-41d4-abad-578f72d60a74,1,App crashed,0.0,neutral
+2025-06-02T07:01:00.521704,email,US,ff2c0e9d-0140-4037-adb7-48b8faa3c07b,2,Not great,-0.5096,negative
+2025-06-02T03:50:00.521704,web,AU,92e35b24-c3ab-43e1-b63e-da0720fa2f8a,3,Average,0.0,neutral
+2025-06-01T07:03:00.521704,survey,IN,6fd27337-3f11-407c-9d70-81e8c3a418fd,2,Not great,-0.5096,negative
+2025-06-03T05:53:00.521704,email,US,14bf823d-10d8-40d6-8e6e-3e8b96168442,4,Nice UI,0.4215,positive
+2025-05-30T09:53:00.521704,app,US,e4cfe820-9038-446a-95e6-2e08e2f4f6e7,4,Nice UI,0.4215,positive
+2025-05-28T04:09:00.521704,email,US,f3d4ff9e-73fa-45d5-8967-05832cc801ac,4,Good experience,0.4404,positive
+2025-06-03T10:56:00.521704,app,AU,d7a53d83-5c4d-467f-9840-4c0e2ebed53f,5,Excellent!,0.6114,positive
+2025-06-03T03:31:00.521704,survey,AU,4bc92ec8-4af5-4213-8d2e-29277345e50e,1,App crashed,0.0,neutral
+2025-06-02T21:31:00.521704,survey,AU,5fc6a675-b04d-4e29-ae44-32607f7e7a42,3,Okay,0.2263,positive
+2025-05-30T00:59:00.521704,survey,IN,30df63c5-e604-488f-b869-cde11fecb71b,1,Terrible experience,-0.4767,negative
+2025-06-02T13:38:00.521704,app,US,1f55f948-b3e5-4af5-ae80-69f86666c65d,5,Loved the product,0.5994,positive
+2025-05-29T11:48:00.521704,email,UK,0348b450-39b1-4bef-8b01-22c3d5aedde0,3,Okay,0.2263,positive
+2025-06-02T03:04:00.521704,survey,UK,65340c32-3fd3-4507-b7dc-c67788ea9b0c,5,Loved the product,0.5994,positive
+2025-06-03T12:40:00.521704,survey,UK,184011b8-a4d3-4ae4-9fb1-cfee904a3af0,5,Excellent!,0.6114,positive
+2025-05-30T07:36:00.521704,web,IN,95358b15-8595-4e1b-9a1f-28aeecda6e67,4,Good experience,0.4404,positive
+2025-05-30T16:48:00.521704,web,US,677c4115-d8f6-4a07-8f48-21f6e919fe51,2,Slow response,0.0,neutral
+2025-05-30T12:46:00.521704,email,US,eb830c71-3b03-45f8-925d-db5103a6d43e,3,Okay,0.2263,positive
+2025-05-31T07:02:00.521704,web,UK,1b33153f-929b-4e78-ae1f-cce96ed4990c,4,Nice UI,0.4215,positive
+2025-05-29T20:46:00.521704,email,UK,ce6621bd-090a-475b-a211-4bfbb4dcf438,2,Slow response,0.0,neutral
+2025-06-04T00:30:00.521704,web,IN,2e5c47e7-3cf6-4247-b046-e567eaf423e5,2,Not great,-0.5096,negative
+2025-06-03T07:38:00.521704,app,AU,3cc75b4c-e275-4297-9096-4ed70bb057a7,4,Nice UI,0.4215,positive
+2025-05-31T15:13:00.521704,web,IN,a55a08e5-6c06-42f2-8670-c310c638ae1d,3,Average,0.0,neutral
+2025-06-02T08:15:00.521704,email,IN,2b3dc5d6-a961-453f-9a84-e29d6a7c283a,1,Terrible experience,-0.4767,negative
+2025-05-31T18:01:00.521704,app,UK,31dd20e5-0947-4296-a511-5df7603e8ff9,5,Loved the product,0.5994,positive
+2025-05-31T22:37:00.521704,app,UK,5500d4ea-3224-4cc4-9fe6-beb72e5ac50b,5,Excellent!,0.6114,positive
+2025-06-01T18:44:00.521704,web,UK,518faf70-e960-407a-a18e-c2e9ddcff8bc,5,Loved the product,0.5994,positive
+2025-05-28T07:05:00.521704,survey,UK,c9c8d211-75bd-4594-8299-4b84d655732b,4,Good experience,0.4404,positive
+2025-06-02T04:55:00.521704,web,AU,fd3b03a8-d0eb-4927-92cc-0e9012cc4504,3,Okay,0.2263,positive
+2025-05-31T22:32:00.521704,web,AU,2bdb7960-da33-4763-b182-bc19fda4bc48,1,Terrible experience,-0.4767,negative
+2025-06-02T02:55:00.521704,email,UK,5c951e01-b3e0-4b80-8f6e-f0ade3819ae4,3,Okay,0.2263,positive
+2025-06-02T05:30:00.521704,app,US,6451effd-8d4f-44ba-966a-63a71a826868,2,Not great,-0.5096,negative
+2025-06-02T17:53:00.521704,email,AU,99d73e17-2b15-43eb-8cef-9910803c785e,3,Average,0.0,neutral
+2025-06-03T14:00:00.521704,web,AU,4ec21b0a-0330-4a63-addd-f3979d7b4fa9,1,App crashed,0.0,neutral
+2025-06-03T17:24:00.521704,email,US,4197c06f-0348-4b90-95fe-0c73ef5754a8,3,Okay,0.2263,positive
+2025-05-30T02:25:00.521704,email,UK,ec43d205-0014-4793-8a19-8c96477cfbea,2,Not great,-0.5096,negative
+2025-06-03T00:33:00.521704,app,US,72d9c3cf-6e61-4330-9076-2d115789f5e6,3,Okay,0.2263,positive
+2025-06-01T06:52:00.521704,email,IN,4b8dbe75-ce7f-4083-aa09-06bdca92f53d,4,Nice UI,0.4215,positive
+2025-06-01T16:00:00.521704,app,US,50abfe27-a2a0-4a3c-9a92-4e7fbca1aee0,3,Okay,0.2263,positive
+2025-05-30T19:56:00.521704,survey,IN,298c76b0-fdae-4095-ab21-5db0f4a96e24,1,App crashed,0.0,neutral
+2025-05-31T11:34:00.521704,email,UK,9beb3bf7-84a6-4332-ac42-2e76468f5225,4,Nice UI,0.4215,positive
+2025-06-04T00:54:00.521704,survey,UK,7b15e287-c61f-4f27-91a0-d49950a83ba6,1,App crashed,0.0,neutral
+2025-05-28T21:56:00.521704,app,IN,6069f85d-7fb5-448a-aa4c-037d2980f971,1,App crashed,0.0,neutral
+2025-05-29T03:14:00.521704,survey,IN,8672610b-6c80-40ed-b3eb-b311671376d5,4,Nice UI,0.4215,positive
+2025-05-28T11:30:00.521704,email,UK,878949a1-09ed-4032-85cb-051e40a4fb5b,3,Average,0.0,neutral
+2025-05-30T08:49:00.521704,email,IN,4d811694-1030-4917-80dc-02729d8ca78b,3,Okay,0.2263,positive
+2025-06-03T14:02:00.521704,survey,US,c0731006-4170-497f-9866-4dc2a0820bcb,1,App crashed,0.0,neutral
+2025-06-02T04:56:00.521704,email,UK,3e77d322-9154-4566-a64a-9e8fe41cee51,2,Slow response,0.0,neutral
+2025-05-28T05:19:00.521704,web,US,3681f7d0-f928-455e-8b19-c7b66e7c86f9,2,Not great,-0.5096,negative
+2025-05-31T21:41:00.521704,email,UK,1844bca7-694c-4db7-82e7-4ce01e9d39c9,2,Slow response,0.0,neutral
+2025-05-29T22:39:00.521704,app,IN,2f22cdbb-5de2-45d4-b0fc-2be67ede36b9,5,Loved the product,0.5994,positive
+2025-05-31T14:59:00.521704,app,AU,a16a62b9-4d0b-4eb6-86ac-a556e9aabb1b,1,App crashed,0.0,neutral
+2025-05-31T15:01:00.521704,survey,AU,d2c19392-85c4-4320-a338-011f6a9c1721,4,Good experience,0.4404,positive
+2025-05-28T14:56:00.521704,web,IN,e5870b90-08f8-4ac1-85d9-9996550f91f7,4,Good experience,0.4404,positive
+2025-06-02T12:53:00.521704,web,AU,c1944042-0ee1-4aa2-86ef-594099aa222f,4,Nice UI,0.4215,positive
+2025-06-02T14:47:00.521704,survey,AU,968e3ee9-3119-4cab-9623-9096c5d52821,1,App crashed,0.0,neutral
+2025-05-29T09:34:00.521704,email,UK,c12fe9a9-0a7d-4dd4-9aa7-a6a671d0254a,1,Terrible experience,-0.4767,negative
+2025-06-01T05:34:00.523012,email,IN,2478d7c6-066b-401b-a42c-02854e127d8a,3,Average,0.0,neutral
+2025-06-03T22:39:00.523012,app,UK,5ccbfede-05f3-4d78-89df-fa96b503c547,3,Average,0.0,neutral
+2025-06-02T03:27:00.523012,web,IN,19bc38d0-35ab-43cc-b2f9-27267d71670c,1,Terrible experience,-0.4767,negative
+2025-06-03T17:12:00.523012,app,UK,72ef78c9-7846-4d75-a0fb-d2a7f1b1d3ae,2,Slow response,0.0,neutral
+2025-06-01T20:21:00.523012,app,IN,1ac96b17-5a70-4722-bb63-ff30557a4031,4,Nice UI,0.4215,positive
+2025-05-31T14:16:00.523012,survey,IN,871b3c92-3306-4e0b-8dc3-c07f6016b070,1,Terrible experience,-0.4767,negative
+2025-05-31T14:52:00.523012,app,US,99ee15fb-54ea-47c7-99ed-55433087585e,1,App crashed,0.0,neutral
+2025-06-01T10:29:00.523012,email,IN,6ddb167c-fcad-4755-b718-9f7bba99317e,4,Good experience,0.4404,positive
+2025-05-30T08:35:00.523012,survey,IN,3591c01a-7ddf-4d88-87c4-0934c8bdec78,4,Nice UI,0.4215,positive
+2025-05-31T11:17:00.523012,email,AU,cb2dfe8c-2f4d-4ce9-bcd4-0884c67bdfb6,1,Terrible experience,-0.4767,negative
+2025-05-28T11:07:00.523012,email,US,d79fab32-e20a-4a0e-9683-5c1974e5b8d0,3,Okay,0.2263,positive
+2025-05-28T05:15:00.523012,email,IN,aba64bf0-1009-4b02-850c-998fef74f622,1,Terrible experience,-0.4767,negative
+2025-05-30T03:34:00.523012,app,US,506d1013-2685-476c-a0ce-571050a2935e,5,Excellent!,0.6114,positive
+2025-06-02T12:55:00.523012,email,UK,887c1f70-7f86-452e-aece-204f396ba091,1,Terrible experience,-0.4767,negative
+2025-06-02T04:00:00.523012,app,US,a34ff009-31bd-47ac-97fb-1c3270e80deb,1,Terrible experience,-0.4767,negative
+2025-05-29T14:27:00.523012,app,AU,edad2228-303c-4f8d-b5a2-6ac85f9bfa99,1,App crashed,0.0,neutral
+2025-05-29T19:31:00.523012,survey,UK,88162099-83cf-4754-8aed-ec1c6ab4453c,3,Average,0.0,neutral
+2025-06-02T21:55:00.523012,web,IN,d4795438-3b44-49fa-9085-ea6e42434734,4,Nice UI,0.4215,positive
+2025-06-02T12:42:00.523012,web,IN,f432968e-24ce-4e45-8118-f0f2c730eb22,3,Average,0.0,neutral
+2025-06-02T06:53:00.523012,email,US,8fe54db2-27d1-4875-bfd7-d29216230b93,2,Slow response,0.0,neutral
+2025-06-01T20:24:00.523012,survey,UK,94a4593d-87bd-42f0-bb54-f8e2b83d03f3,1,App crashed,0.0,neutral
+2025-05-30T04:43:00.523012,app,UK,b2446108-a5f9-43c2-8fe3-d68e81befe00,1,App crashed,0.0,neutral
+2025-06-02T11:16:00.523012,survey,US,2354c161-8172-4c44-8743-dcae70eea9d9,2,Slow response,0.0,neutral
+2025-05-30T23:35:00.523012,survey,US,bb6d6c41-9d2b-4fc9-9c8a-a68168e46385,5,Excellent!,0.6114,positive
+2025-06-02T17:02:00.523012,web,IN,a804d95a-4aa5-4590-bb2a-1e6719a5843f,4,Nice UI,0.4215,positive
+2025-05-29T00:04:00.523012,web,AU,af989f1c-07a6-40f4-9482-51add5fccf20,1,Terrible experience,-0.4767,negative
+2025-06-01T18:19:00.523012,survey,AU,b1b4a0b1-47b9-444d-8420-582cb058a88f,4,Good experience,0.4404,positive
+2025-05-28T07:22:00.523012,email,AU,c3f59400-2066-4030-8c93-1f154bb38fd7,2,Slow response,0.0,neutral
+2025-05-30T02:34:00.523012,app,UK,1efaa3c6-a59e-4e7c-9619-19a2137e1c18,3,Okay,0.2263,positive
+2025-05-29T13:20:00.523012,survey,AU,5d14bf0d-4890-4c50-b605-87b87d69f8e3,5,Loved the product,0.5994,positive
+2025-06-03T03:42:00.523012,web,AU,7169fc44-97c5-4ddb-948a-73c7d4bece1a,3,Okay,0.2263,positive
+2025-05-29T15:11:00.523012,web,IN,4b2e03c2-3b26-4d1d-b261-e6c142e7e456,3,Average,0.0,neutral
+2025-05-28T08:00:00.523012,survey,UK,01522fc2-cf39-4a6b-945d-3bc28bebc985,1,Terrible experience,-0.4767,negative
+2025-05-31T18:18:00.523012,app,UK,4fc99aef-468e-44d9-a96d-44c589375fd5,5,Loved the product,0.5994,positive
+2025-05-31T04:29:00.523012,web,IN,34dd9828-0316-403c-8443-8b0f695ba98d,3,Average,0.0,neutral
+2025-06-03T05:25:00.523012,web,UK,5727c0e5-9a8c-433e-8b7e-2af37ea4ca7a,1,App crashed,0.0,neutral
+2025-05-30T01:58:00.523012,survey,AU,b84d0833-4df5-4125-897b-1e62b94fd5cf,4,Nice UI,0.4215,positive
+2025-05-29T17:56:00.523012,email,US,aa68d924-fcd0-4dd3-b656-fbf1f463c5bf,4,Nice UI,0.4215,positive
+2025-06-03T21:52:00.523012,survey,IN,3fba03bf-742a-4422-8f89-2e22f91ccecb,3,Average,0.0,neutral
+2025-05-31T04:24:00.523012,email,IN,db47c3c7-9d06-44af-984b-06310dd06659,3,Okay,0.2263,positive
+2025-05-30T00:12:00.523012,web,AU,f7297f48-edaa-4070-9851-3f5927c33065,1,App crashed,0.0,neutral
+2025-05-29T07:11:00.523012,survey,US,b25a2f44-573a-46b6-9020-26661ea6ea44,5,Excellent!,0.6114,positive
+2025-05-30T07:38:00.523012,web,IN,09ad267b-8186-413a-8b47-b765855f70d0,3,Okay,0.2263,positive
+2025-06-01T23:35:00.523012,survey,IN,2b1062cf-5523-42f5-9c12-f21687a02fc6,5,Loved the product,0.5994,positive
+2025-05-30T01:37:00.523012,email,UK,1027141c-555e-42f1-b14a-0919c4b31be7,3,Average,0.0,neutral
+2025-05-31T17:30:00.523012,app,IN,a3537516-8dbd-414a-b128-cda74aa212f3,5,Loved the product,0.5994,positive
+2025-06-03T23:51:00.523012,app,US,9da1e077-5261-420a-9c5d-8d95c2708aef,3,Okay,0.2263,positive
+2025-06-02T18:12:00.523012,app,UK,ebd62b5f-6073-4b2f-a192-5d0f5d04a1af,1,App crashed,0.0,neutral
+2025-05-29T17:10:00.523012,email,AU,001ff7ab-37b9-4ad2-aa90-54c7639dcd23,5,Loved the product,0.5994,positive
+2025-05-28T09:19:00.523012,email,US,bb2edaf1-3ead-47b9-a4da-0d04c5be48f6,3,Okay,0.2263,positive
+2025-05-30T23:02:00.523012,email,IN,47dac69d-5991-4300-85c3-4c928fe579b6,4,Nice UI,0.4215,positive
+2025-06-03T11:47:00.523012,survey,US,39c2076a-fffc-4943-898f-d22a19b3a074,5,Loved the product,0.5994,positive
+2025-06-02T22:26:00.523012,app,US,8afd2ec2-35f9-42aa-8e8c-f01027aa58ac,4,Nice UI,0.4215,positive
+2025-05-30T01:10:00.523012,survey,AU,ff4bd036-b72f-4d3e-9116-90dc8a211094,4,Nice UI,0.4215,positive
+2025-06-01T06:48:00.523012,survey,AU,bd6dc2e3-c69b-4ebc-b17c-3107e9bda2e7,5,Loved the product,0.5994,positive
+2025-06-01T14:07:00.523012,web,IN,5f290e59-6b20-40d7-b44a-22e0fcb73776,2,Slow response,0.0,neutral
+2025-06-02T21:37:00.523012,app,UK,30cd4885-fd4f-4167-9931-6b0e64d5d72c,2,Slow response,0.0,neutral
+2025-05-28T06:13:00.524222,survey,AU,fc401409-cf50-4483-a3c3-5d20f130ae9d,5,Excellent!,0.6114,positive
+2025-06-03T11:44:00.524222,survey,AU,4ea8a88d-b985-4af2-9cef-77931dce4013,2,Not great,-0.5096,negative
+2025-06-02T17:25:00.524222,email,IN,56577d7b-beba-422d-8301-f8b7c5ae873b,5,Excellent!,0.6114,positive
+2025-05-29T12:02:00.524222,web,US,b561bad8-1509-4a7f-a0e2-d0ec29efb704,1,Terrible experience,-0.4767,negative
+2025-05-29T05:05:00.524222,survey,US,c37c06a1-48f1-4c78-aa0b-f1cd0f8b2e30,2,Not great,-0.5096,negative
+2025-06-02T10:16:00.524222,app,US,d83e72cf-2d9c-4e16-bb1d-49068246133f,2,Not great,-0.5096,negative
+2025-06-02T20:57:00.524222,app,IN,46a75378-4c91-4e45-b599-4a4a233517b1,5,Loved the product,0.5994,positive
+2025-06-02T04:53:00.524222,email,IN,16b45405-341b-4699-ab01-4d9fab2fd91c,4,Good experience,0.4404,positive
+2025-05-30T03:32:00.524222,survey,AU,844902d9-a3d7-4bf0-b7c8-259c5e0cd76a,4,Nice UI,0.4215,positive
+2025-06-02T13:34:00.524222,web,IN,66a6dd4d-41e5-4302-b4d6-016de7a3e931,2,Not great,-0.5096,negative
+2025-06-01T23:34:00.524222,survey,AU,bbabe9e1-d994-4989-92d2-d9f501fb0d1e,2,Slow response,0.0,neutral
+2025-05-30T15:59:00.524222,web,US,75d41ffd-376b-4cb4-b8f4-4705ab1638cd,3,Average,0.0,neutral
+2025-06-02T03:02:00.524222,web,UK,e6c9c979-9ca9-4b48-ab39-71bc6a526384,5,Loved the product,0.5994,positive
+2025-05-28T08:31:00.524222,app,IN,557d8012-e6b6-42fc-8039-bd0cd315ce1b,5,Loved the product,0.5994,positive
+2025-05-29T01:15:00.524222,app,IN,f8eaa29c-7d0d-4429-a52a-a942eb0095b0,4,Good experience,0.4404,positive
+2025-05-29T00:41:00.524222,web,AU,f0242199-28f6-44cc-b086-457b350e1bc0,5,Loved the product,0.5994,positive
+2025-05-28T15:33:00.524222,app,AU,fc0a099d-516a-4b3f-a9dc-6e83bab9f9bf,3,Average,0.0,neutral
+2025-05-29T12:55:00.524222,web,US,84ec20f9-e5a6-499e-9198-607f7df8ed25,1,Terrible experience,-0.4767,negative
+2025-05-31T05:28:00.524222,email,IN,ca170fe1-b8f4-4ceb-8043-4cd4b809ae4a,5,Excellent!,0.6114,positive
+2025-05-30T16:33:00.524222,survey,IN,d864d6c6-f422-4c22-ae1d-0600d34cb370,3,Okay,0.2263,positive
+2025-06-02T06:05:00.524222,survey,UK,53d7a3dd-f1d9-423a-a1e4-6cd07cb9bb55,2,Not great,-0.5096,negative
+2025-05-28T21:24:00.524222,web,UK,e3876ce8-678f-417d-b94b-c2f808506449,3,Average,0.0,neutral
+2025-06-03T00:42:00.524222,app,US,9685a251-0d12-4c39-a80b-0934005a5c0c,5,Excellent!,0.6114,positive
+2025-06-03T21:13:00.524222,web,IN,49401c8e-1103-4664-ae45-f0be3b722e94,4,Nice UI,0.4215,positive
+2025-06-01T10:32:00.524222,web,US,dac69749-172d-4a15-940b-d09381a4c6b6,5,Excellent!,0.6114,positive
+2025-06-02T14:04:00.524222,web,US,ac1c8381-3f77-4ef0-b161-e6ed1e86cb5d,4,Good experience,0.4404,positive
+2025-06-03T22:42:00.524222,email,US,8c7f630b-1546-4291-bce5-8c7c0b565f2a,3,Okay,0.2263,positive
+2025-06-03T16:51:00.524222,email,UK,d596fd6f-ce2e-4bc9-8ecc-a0277c624162,3,Okay,0.2263,positive
+2025-05-31T20:19:00.524222,email,UK,224734e4-a036-480e-9ee0-cd733be055f7,1,Terrible experience,-0.4767,negative
+2025-06-01T22:32:00.524222,web,AU,29121861-fa59-486c-a323-073bc35a8722,5,Loved the product,0.5994,positive
+2025-05-28T08:04:00.524222,email,IN,b03aac0d-ea77-400b-8a55-972b9bf29b7a,4,Good experience,0.4404,positive
+2025-05-31T00:25:00.524222,web,IN,8d8a57e5-69c0-4779-84e4-8eda85441f8d,1,Terrible experience,-0.4767,negative
+2025-05-29T08:08:00.524222,survey,AU,a45bb651-6140-4b25-b7a7-5999dc63bcd4,2,Slow response,0.0,neutral
+2025-06-03T10:40:00.524222,survey,UK,a10d0bb2-b145-4dd5-a4e9-a62c5fe32cca,5,Excellent!,0.6114,positive
+2025-05-29T13:22:00.524222,app,IN,ea3b7d0a-41ca-402b-bdc8-e91041f72411,5,Loved the product,0.5994,positive
+2025-05-28T04:42:00.524222,email,UK,20bc559e-ad38-4dea-9e98-aeda47792315,4,Good experience,0.4404,positive
+2025-06-01T04:31:00.524222,email,US,1b575423-dd6c-4efd-beec-ab7fec04c7bd,5,Excellent!,0.6114,positive
+2025-05-28T08:53:00.524222,web,UK,d7bb49a2-6c0e-461c-a2f8-a6e1812dc975,4,Nice UI,0.4215,positive
+2025-06-01T07:46:00.524222,app,UK,92ac39fb-d213-4644-817b-ed328fe13e28,3,Average,0.0,neutral
+2025-06-02T22:36:00.524222,survey,UK,2bd4d613-0315-4405-a7ee-b5912c65e554,3,Average,0.0,neutral
+2025-05-31T10:47:00.524222,email,AU,d89d5cf7-cd05-4a85-852f-7b38c21cf386,1,Terrible experience,-0.4767,negative
+2025-06-03T19:16:00.524222,email,US,8d0bbcac-7867-43ca-9135-8d0a93f61618,5,Excellent!,0.6114,positive
+2025-05-29T01:58:00.524222,web,AU,85b811a0-3bd1-4413-83fa-93c4781d9148,2,Slow response,0.0,neutral
+2025-05-31T16:31:00.524222,web,AU,3a735a8d-33c3-49d0-95c2-433ee57418e5,5,Loved the product,0.5994,positive
+2025-05-28T13:10:00.524222,email,US,dfe8f3e2-df6e-4849-a5cc-0ad9f04ad7d4,1,Terrible experience,-0.4767,negative
+2025-05-30T06:15:00.524222,web,US,7cbaa47e-c148-4931-ba33-a7755585a2d6,5,Loved the product,0.5994,positive
+2025-05-30T11:49:00.524222,app,IN,2300cd83-f212-4c92-9215-c86703e4e8f3,3,Average,0.0,neutral
+2025-05-29T01:07:00.524222,app,UK,4f113386-3e5d-4274-a066-c218e560f082,2,Slow response,0.0,neutral
+2025-05-30T23:31:00.524222,survey,AU,146f37ca-939d-4a3e-8c29-bd2a44d7b83b,5,Loved the product,0.5994,positive
+2025-06-03T05:54:00.524222,email,US,8718d2a6-a521-448e-9e1d-036a04ad1d96,3,Okay,0.2263,positive
+2025-06-01T02:59:00.524222,web,AU,e42e3dd4-3e70-4a6a-b092-38973c40bb8d,5,Excellent!,0.6114,positive
+2025-06-03T09:48:00.524222,email,AU,ef440ae7-fdb8-4fb6-9b11-98acde8baf53,1,Terrible experience,-0.4767,negative
+2025-05-28T12:59:00.524222,email,AU,3d06f6f6-1ee3-45f5-a092-4ef7f973bd9b,2,Slow response,0.0,neutral
+2025-06-03T21:24:00.524222,email,UK,b22f15cf-6df6-4e97-9e7b-7824994a97e7,2,Slow response,0.0,neutral
+2025-06-02T03:01:00.524222,app,UK,852d380b-b099-4b5f-b01b-691dc63b495e,4,Nice UI,0.4215,positive
+2025-05-30T17:37:00.525404,web,UK,999d0ac6-bd71-44f9-a317-a3638539f635,3,Okay,0.2263,positive
+2025-06-03T15:54:00.525404,web,IN,a9d1e64d-9dd5-4017-81ba-2bb2f10450cb,2,Not great,-0.5096,negative
+2025-06-03T06:19:00.525404,web,UK,87b0740e-8f6b-4ea6-8c5a-b337a75ed353,4,Good experience,0.4404,positive
+2025-06-01T19:55:00.525404,survey,US,8da8ea91-1eeb-4531-8238-f68071dd9184,2,Not great,-0.5096,negative
+2025-06-02T07:27:00.525404,web,AU,24162c2f-bf32-482a-a93a-5b18a2fbb3e3,3,Average,0.0,neutral
+2025-06-03T11:20:00.525404,survey,UK,4a11e758-8214-423c-84b3-4efee11472a6,2,Slow response,0.0,neutral
+2025-05-28T21:02:00.525404,email,US,0a32698e-8f59-40f3-955f-8096bcd9dd4f,5,Loved the product,0.5994,positive
+2025-05-28T04:33:00.525404,web,IN,e732a99c-850e-4fbb-9639-cac28fc96d08,4,Good experience,0.4404,positive
+2025-06-02T08:50:00.525404,web,US,01ea2ded-d641-403f-a8c1-d2d4973c631a,5,Loved the product,0.5994,positive
+2025-05-30T14:09:00.525404,web,IN,de843213-1462-4de0-9c79-81f19b3809d7,3,Okay,0.2263,positive
+2025-05-29T10:56:00.525404,app,US,d4fe06d4-a0f1-483b-a09b-c8198cbf6c5f,2,Not great,-0.5096,negative
+2025-05-30T04:20:00.525404,web,US,02496ffc-48a1-414c-a220-af19642283c9,2,Slow response,0.0,neutral
+2025-06-03T05:46:00.525404,app,UK,3a2aaaa5-08fc-4828-a218-934580caf854,2,Not great,-0.5096,negative
+2025-05-30T15:51:00.525404,email,IN,951dd288-f3e5-4738-9e91-835b2ff92703,3,Okay,0.2263,positive
+2025-06-02T15:13:00.525404,app,US,1799476a-c645-49ab-89a6-4bff6db05846,2,Slow response,0.0,neutral
+2025-05-30T15:41:00.525404,email,AU,4c7540f4-b813-4cba-9ef3-a26aa39a4d7c,2,Slow response,0.0,neutral
+2025-06-01T18:26:00.525404,web,UK,0ce7c5b8-13e2-4415-add5-b12800c8110f,5,Excellent!,0.6114,positive
+2025-06-02T09:34:00.525404,email,US,3752dda1-82f2-45f7-ae85-6fa58a53b2bc,3,Okay,0.2263,positive
+2025-05-28T22:41:00.525404,web,US,63e8f2c9-a1a5-488b-83d2-596cc76c6371,2,Not great,-0.5096,negative
+2025-05-29T12:11:00.525404,web,AU,e54310a3-10cd-4140-aff0-9b55328a5827,5,Excellent!,0.6114,positive
+2025-05-31T17:24:00.525404,survey,IN,3bf796e9-5717-4535-9f98-84eefa386373,5,Loved the product,0.5994,positive
+2025-05-31T19:11:00.525404,web,IN,efbf1287-2e57-43cf-84cc-1d38fd695f5b,4,Nice UI,0.4215,positive
+2025-05-31T07:17:00.525404,app,UK,7da58836-f0ce-4f98-b619-28c8fd5145bc,1,Terrible experience,-0.4767,negative
+2025-05-29T10:46:00.525404,web,AU,828f5b35-0c52-41a8-b60a-a4018cf38a10,2,Slow response,0.0,neutral
+2025-06-02T04:09:00.525404,email,UK,e6ad7c4e-2b1c-4efc-a83f-c4b57f50873d,4,Nice UI,0.4215,positive
+2025-06-03T08:15:00.525404,email,UK,4aa11c70-7fb6-4575-b8c9-2d15bd653992,5,Loved the product,0.5994,positive
+2025-06-02T11:00:00.525404,email,US,64bfc0d9-f2e9-42a2-960d-b0223a873c8c,4,Good experience,0.4404,positive
+2025-06-02T11:47:00.525404,web,US,5d313c75-6fed-49f2-9177-c5f4c11e7c88,5,Excellent!,0.6114,positive
+2025-06-02T13:46:00.525404,email,IN,ae19bd7d-1d18-4cba-b2cb-84229029eb77,4,Nice UI,0.4215,positive
+2025-06-03T10:03:00.525404,web,UK,f3e7b43e-27cb-401b-85bf-dd5e22062b2b,4,Nice UI,0.4215,positive
+2025-05-30T23:43:00.525404,app,IN,69e151fc-4914-4ef2-88da-93da83df7509,2,Slow response,0.0,neutral
+2025-05-30T03:37:00.525404,survey,AU,33bb1c55-b99c-48a3-b88f-89bde4d850ba,1,App crashed,0.0,neutral
+2025-05-29T02:14:00.525404,app,IN,62ed6f52-1050-4ea4-8e39-f3559d2a9296,5,Excellent!,0.6114,positive
+2025-05-28T04:50:00.525404,web,AU,951890a1-c8e8-4779-90ad-a03a7b29d004,2,Not great,-0.5096,negative
+2025-06-02T12:49:00.525404,survey,IN,96be09ae-e8bf-46f7-80ae-af0775376ff3,1,Terrible experience,-0.4767,negative
+2025-06-03T17:48:00.525404,web,AU,736d7b49-93e4-4379-9849-6a55395917f8,4,Good experience,0.4404,positive
+2025-06-02T14:51:00.525404,web,IN,c3dd573b-d2d9-46a0-9a5d-943c63a2a1af,1,App crashed,0.0,neutral
+2025-05-29T20:48:00.525404,web,US,c8f22731-5156-4354-9e60-716af2553f0c,4,Good experience,0.4404,positive
+2025-05-30T07:08:00.525404,web,IN,02188efb-9610-4ac3-9c46-d54d27b7c217,1,Terrible experience,-0.4767,negative
+2025-06-02T19:46:00.525404,survey,AU,c86c15d8-3e24-4d9d-b3f0-ac8b38d5358b,1,Terrible experience,-0.4767,negative
+2025-05-30T12:21:00.525404,web,UK,10be0c49-37c3-4598-8030-eb73dc12f351,4,Nice UI,0.4215,positive
+2025-06-03T02:04:00.525404,email,AU,5cf90d95-28c0-424c-ac1b-17cbf56f018c,4,Good experience,0.4404,positive
+2025-05-31T17:03:00.525404,survey,IN,515977ac-448f-439f-8c80-23d267d3fc88,2,Not great,-0.5096,negative
+2025-05-31T16:21:00.525404,app,UK,bd5043d5-435e-4b48-babc-19508000b5c9,2,Slow response,0.0,neutral
+2025-05-29T00:13:00.525404,email,UK,e61ecdfc-f71d-432c-a6f3-9e92a697ced8,5,Excellent!,0.6114,positive
+2025-05-30T15:14:00.525404,app,UK,cbe47117-9a02-4a2e-b289-f6800bb79093,3,Okay,0.2263,positive
+2025-06-02T17:18:00.525404,app,AU,c81f02d1-70ce-4ffd-8e58-8ad7ea192da9,4,Good experience,0.4404,positive
+2025-06-01T14:35:00.525404,survey,IN,82909bd9-388e-4e83-bc7d-eb873cd07fc1,1,App crashed,0.0,neutral
+2025-05-31T15:06:00.525404,email,US,d1d494d5-9757-4f04-ae67-76d0b62c519d,4,Nice UI,0.4215,positive
+2025-06-03T09:18:00.525404,app,UK,3cc6e489-998c-48c2-9fa9-76a5cf6e499d,5,Loved the product,0.5994,positive
+2025-05-30T00:40:00.525404,email,IN,67dffea6-f528-465b-84da-2698345cabe2,3,Average,0.0,neutral
+2025-06-02T22:32:00.525404,app,AU,06716fea-8337-45a8-b09f-b51732945456,3,Average,0.0,neutral
+2025-06-03T23:54:00.525404,survey,UK,75047aa4-3c06-45a8-a6d5-4db519532fc5,4,Nice UI,0.4215,positive
+2025-06-01T12:40:00.525404,survey,IN,df96ebdf-54b9-43fb-baf5-543138c01289,5,Loved the product,0.5994,positive
+2025-06-04T00:41:00.525404,survey,IN,17af8f61-b2d9-4a62-88c8-ed7095fa4e78,3,Average,0.0,neutral
+2025-05-31T09:42:00.525404,app,IN,028f6648-67ef-413a-be6f-00b86fe62125,4,Nice UI,0.4215,positive
+2025-06-02T06:47:00.525404,web,US,9f4e370d-c18c-4e6e-9277-d88b9e21d88b,3,Average,0.0,neutral
+2025-05-28T17:06:00.525404,email,AU,1dc3e21b-546f-4b84-bffe-3db447501fc5,4,Good experience,0.4404,positive
+2025-05-31T15:36:00.525404,app,AU,fe7c4e64-592f-47d6-87d6-6eff5c63046b,5,Excellent!,0.6114,positive
+2025-05-29T20:20:00.525404,email,IN,da2605bb-9934-4fce-8682-a8d4ecbc1d97,3,Average,0.0,neutral
+2025-06-01T18:16:00.525404,web,US,f77b6451-6581-419c-8c52-1ec517153d58,3,Average,0.0,neutral
+2025-05-29T07:57:00.525404,survey,US,8ac73ca5-18ec-4f4b-92e8-e009561b8a37,3,Average,0.0,neutral
+2025-06-02T18:20:00.525404,survey,US,351e5cf3-89d2-42e9-8939-db85faa5c168,5,Excellent!,0.6114,positive
+2025-05-31T02:10:00.525404,app,UK,e0e09d3c-b21d-4529-981e-e8eb1cc8f0c9,4,Nice UI,0.4215,positive
+2025-06-01T06:23:00.525404,email,AU,0c081320-4fe0-4deb-8802-7dfe84fea8a8,5,Loved the product,0.5994,positive
+2025-05-28T20:23:00.525404,app,IN,c4973c4d-6bfe-45e4-aa25-fa317b5a8440,2,Not great,-0.5096,negative
+2025-06-03T10:37:00.525404,web,IN,fd7df4b8-41b6-494c-867d-8b6b5b272b19,1,Terrible experience,-0.4767,negative
+2025-06-03T01:17:00.525404,app,IN,a395668f-192c-406d-8f31-9203f016ec2b,1,App crashed,0.0,neutral
+2025-05-31T16:37:00.525404,survey,UK,d7cc7033-d8b0-4166-bb50-e7256c1c8d80,1,Terrible experience,-0.4767,negative
+2025-05-30T08:32:00.526412,web,IN,4c4eacab-8225-4712-972d-af5ba7e8893f,1,Terrible experience,-0.4767,negative
+2025-06-02T05:05:00.526412,survey,US,ee9fdad0-92d8-4017-ba69-374a75053165,4,Nice UI,0.4215,positive
+2025-05-28T12:34:00.526412,survey,US,26ce718a-48f1-4ac7-bd53-36734071fbd2,4,Nice UI,0.4215,positive
+2025-05-31T07:14:00.526412,app,US,7ff76415-2e3b-4312-bcb7-cf97e863ed95,2,Slow response,0.0,neutral
+2025-05-30T15:12:00.526412,email,AU,d8abb6d8-d9d8-419a-841a-fe9815e97e7b,1,Terrible experience,-0.4767,negative
+2025-05-30T22:43:00.526412,web,IN,0c516740-780c-4eb0-9c52-86ca66716faa,1,App crashed,0.0,neutral
+2025-06-01T12:43:00.526412,survey,IN,2f070272-9878-41a0-a30c-a182805355a9,5,Loved the product,0.5994,positive
+2025-05-28T17:22:00.526412,email,IN,970da2f2-b082-42d1-b4cd-f09b2ff9117d,5,Excellent!,0.6114,positive
+2025-06-02T00:44:00.526412,web,AU,90971c40-d2b3-483f-8684-9f6ce4defdb9,3,Okay,0.2263,positive
+2025-06-03T10:28:00.526412,survey,UK,eb577e14-87a4-47ce-ad48-7734c48d10ae,3,Okay,0.2263,positive
+2025-05-29T21:06:00.526412,web,US,154ce1f8-2287-4c68-9d9d-c342a62501d1,3,Average,0.0,neutral
+2025-05-31T14:32:00.526412,web,AU,5cb27a56-fd36-4a82-8e3b-6157aa300011,3,Okay,0.2263,positive
+2025-06-01T00:55:00.526412,web,IN,b775b719-8ed4-420f-a18a-a1a3e232594d,4,Nice UI,0.4215,positive
+2025-06-02T12:20:00.526412,web,UK,13666d22-98e2-4a88-81a6-7b2cc83fc7c8,3,Average,0.0,neutral
+2025-06-02T01:20:00.526412,web,IN,7f588a93-9e76-4429-b404-fe2702f83dce,5,Excellent!,0.6114,positive
+2025-05-31T13:08:00.526412,app,AU,4676241f-5a52-4925-8749-479f11d3fd72,1,App crashed,0.0,neutral
+2025-05-31T23:58:00.526412,app,US,efcf2413-dfc0-4462-9521-73087d92af43,4,Good experience,0.4404,positive
+2025-06-01T06:41:00.526412,app,AU,f8dbb016-7a35-4042-bd6b-ef9789896189,1,Terrible experience,-0.4767,negative
+2025-05-28T09:42:00.526412,web,UK,acf4125d-a423-4649-8a30-10a5f627b26c,2,Slow response,0.0,neutral
+2025-06-03T12:55:00.526412,web,UK,0d385736-80a2-4890-b0ca-e8a5b5fae085,5,Excellent!,0.6114,positive
+2025-05-30T18:39:00.526412,app,UK,33f87680-3239-404f-a900-ddebffb4f680,4,Nice UI,0.4215,positive
+2025-06-03T17:23:00.526412,email,UK,f17bf95e-1232-426d-a584-e3eb4c46af88,1,Terrible experience,-0.4767,negative
+2025-06-02T15:27:00.526412,email,AU,5f0140c5-c7a5-4dbd-b66a-f41b9b381ede,3,Average,0.0,neutral
+2025-05-28T15:15:00.526412,app,IN,105c1095-637c-48d2-b32d-e5d590436fa6,2,Not great,-0.5096,negative
+2025-05-31T22:37:00.526412,survey,IN,00734a2b-02b6-41fc-b756-8a03ac637263,3,Okay,0.2263,positive
+2025-06-02T13:45:00.526412,web,US,24ca15c4-04ff-4747-97b7-495e51f459b7,4,Good experience,0.4404,positive
+2025-05-29T08:23:00.526412,app,IN,97d9676b-ac3f-457f-b1eb-25633abed1de,2,Slow response,0.0,neutral
+2025-05-29T09:49:00.526412,survey,UK,d4076d5a-e89a-43d2-a560-04ef99eaa314,3,Okay,0.2263,positive
+2025-06-03T10:10:00.526412,web,IN,94abf5b9-e00f-4bde-ade1-062a3a3fa3fc,3,Okay,0.2263,positive
+2025-06-01T01:25:00.526412,email,AU,d25e6106-47de-44c9-87ec-67c34bab748b,4,Good experience,0.4404,positive
+2025-06-01T10:02:00.526412,app,IN,8fdba03a-3734-4377-a358-eaa587c4af33,3,Okay,0.2263,positive
+2025-05-28T15:05:00.526412,email,UK,82039ad5-f253-4fce-af56-fa50f5e939ed,1,App crashed,0.0,neutral
+2025-05-28T13:23:00.526412,web,UK,d25f0810-1cb7-47d3-acc8-8bb22db66aab,2,Slow response,0.0,neutral
+2025-05-29T20:18:00.526412,web,UK,cb626adf-87c3-464d-8794-e3c26a5e50e1,2,Slow response,0.0,neutral
+2025-06-03T03:55:00.526412,app,AU,67471f12-ce40-4bf8-bafe-ae3972bf4c15,4,Nice UI,0.4215,positive
+2025-06-02T01:41:00.526412,survey,US,441f8f78-7a30-4e31-8225-42f7a51c49fc,1,App crashed,0.0,neutral
+2025-06-01T04:08:00.526412,survey,UK,62b412bc-deb8-44f8-be34-b37e4f81d2ce,1,Terrible experience,-0.4767,negative
+2025-05-28T06:38:00.526412,app,UK,3456ac17-a1e6-44e8-90e1-e928831f8a28,4,Nice UI,0.4215,positive
+2025-06-02T09:37:00.526412,email,IN,80d6d4ed-4f38-41b7-b272-a17d0907d779,5,Loved the product,0.5994,positive
+2025-05-31T01:54:00.526412,web,US,ba457f34-579c-4e0c-9b4a-26f1eccda125,2,Slow response,0.0,neutral
+2025-06-02T12:09:00.526412,web,UK,068de136-eed7-483c-9c5c-fd7ca97a43e9,1,Terrible experience,-0.4767,negative
+2025-05-30T02:53:00.526412,web,UK,ec8d8e95-59db-4477-962f-6623111054e4,3,Average,0.0,neutral
+2025-05-28T04:26:00.526412,survey,IN,3ce53ce1-0305-4c47-b738-9dec7694214e,1,Terrible experience,-0.4767,negative
+2025-06-03T20:29:00.526412,app,UK,869ea62c-3855-49ba-bb24-fa760b03757f,5,Loved the product,0.5994,positive
+2025-05-31T19:46:00.526412,app,AU,2b9dcc19-83e5-4dcb-a815-0ff0ee22fbee,1,App crashed,0.0,neutral
+2025-05-28T05:06:00.526412,email,UK,f25af114-0f4c-4d5e-999a-9911a41f7004,2,Not great,-0.5096,negative
+2025-05-28T08:13:00.526412,app,AU,a7db04cf-fb4d-4db2-b074-f5fcdae309b6,4,Nice UI,0.4215,positive
+2025-05-30T15:30:00.526412,survey,AU,c6fa53a2-560a-4c78-99d1-e4cf578019f0,4,Good experience,0.4404,positive
+2025-06-03T22:14:00.526412,app,AU,6b8bc8be-5293-43a4-8230-93cbe59913cd,5,Excellent!,0.6114,positive
+2025-05-30T19:26:00.526412,survey,UK,e9891587-a7c9-4787-b1f2-40b79bb7395b,1,App crashed,0.0,neutral
+2025-05-31T05:10:00.526412,app,IN,eab1130f-ce01-40cf-8ccd-cf45aa249169,3,Okay,0.2263,positive
+2025-06-02T06:15:00.526412,web,AU,874193f3-a018-4de4-bbd4-4f4ee9ecfedd,5,Loved the product,0.5994,positive
+2025-06-01T05:35:00.526412,email,AU,7c7f83e7-63d4-4e0a-bd3f-977a785f9eb4,4,Nice UI,0.4215,positive
+2025-05-29T04:22:00.526412,email,AU,5dd40028-d943-4435-93f6-b22976ddde93,5,Excellent!,0.6114,positive
+2025-05-29T18:09:00.526412,email,IN,46b814ed-71b4-4d3b-bf90-ec3b5eb55942,4,Nice UI,0.4215,positive
+2025-06-02T20:31:00.526412,app,AU,2a9bfa8e-33d5-4539-970c-7bf76de7f3a8,1,Terrible experience,-0.4767,negative
+2025-05-29T04:42:00.526412,app,US,a52cd2f0-de33-4eb0-b069-313ff1c15309,5,Loved the product,0.5994,positive
+2025-05-28T18:42:00.526412,email,AU,4b514dcf-c01b-4a7d-ad07-fd0cde82752a,2,Slow response,0.0,neutral
+2025-06-02T23:33:00.526412,survey,AU,7096c456-13aa-45de-afdb-e4b7512abd78,3,Okay,0.2263,positive
+2025-06-02T20:34:00.526412,web,AU,694754d2-6768-402f-95b3-b47ffd281aa7,3,Okay,0.2263,positive
+2025-05-29T13:03:00.526412,web,IN,50d949cd-c2d4-4d6e-876f-34cf89958f7a,5,Excellent!,0.6114,positive
+2025-05-31T20:35:00.526412,email,UK,bec4b38d-722c-4962-b398-e4f79ef2f652,3,Okay,0.2263,positive
+2025-05-31T10:43:00.526412,web,IN,7d5995cc-2c23-4ad4-b57f-d86eff2d194a,2,Not great,-0.5096,negative
+2025-05-29T07:53:00.526412,email,IN,93c45fdd-e533-4b7c-a615-ddb6473487bd,5,Loved the product,0.5994,positive
+2025-05-30T18:32:00.526412,web,AU,f0e929ad-c244-4c8a-a60f-9388308a67b2,3,Average,0.0,neutral
+2025-06-04T00:11:00.526412,app,UK,ce684468-f73d-4812-bd18-7a17a99716a3,4,Nice UI,0.4215,positive
+2025-06-02T18:17:00.526412,survey,IN,fa664a2d-4674-42d7-a6ed-cbf00943d0ce,4,Nice UI,0.4215,positive
+2025-05-28T12:24:00.526412,web,US,933d5d0c-5fb3-4496-8ead-d879c6692948,4,Nice UI,0.4215,positive
+2025-05-29T15:05:00.526412,web,IN,a7442446-cefc-4a3e-8f6c-a60e785c37ac,3,Okay,0.2263,positive
+2025-05-29T16:09:00.526412,web,UK,186edc7d-36ac-4d00-9924-74bc1e1e09e0,3,Average,0.0,neutral
+2025-06-03T09:34:00.526412,survey,AU,eb761482-caa9-44b0-97ec-1d6283a8fc19,3,Average,0.0,neutral
+2025-06-01T05:50:00.526412,survey,IN,7d6a32d5-0866-45e6-bc73-8b81b8119b97,3,Average,0.0,neutral
+2025-05-31T01:27:00.526412,web,UK,4f577689-2e1e-4f6d-9edb-d5e5d110f3f0,2,Slow response,0.0,neutral
+2025-06-01T23:32:00.526412,app,US,dafcc333-1799-4c71-9905-37fab9c8fd51,5,Excellent!,0.6114,positive
+2025-05-29T17:40:00.526412,web,US,aca9d813-91e1-46f6-b48e-ef5fd5e51de0,3,Average,0.0,neutral
+2025-06-03T06:57:00.526412,app,IN,40830cf1-3541-4a78-bddd-6feffb97fb22,4,Nice UI,0.4215,positive
+2025-05-28T14:17:00.526412,survey,AU,aa3b75f8-dd6f-4066-b77c-fb67685c9fd5,1,App crashed,0.0,neutral
+2025-05-28T20:13:00.526412,email,UK,c0c6f82d-509c-42b8-8f48-ce2b9000b65e,4,Good experience,0.4404,positive
+2025-05-29T06:48:00.526412,web,AU,2951f760-660c-4bab-bde6-ec13eecc2fc8,4,Good experience,0.4404,positive
+2025-06-01T01:44:00.526412,web,IN,cfcbed43-fcc9-4896-b6c9-e7d7146c6c93,2,Not great,-0.5096,negative
+2025-06-02T09:14:00.526412,survey,AU,418d1f4f-2358-4435-9133-32246e8ce8e4,3,Okay,0.2263,positive
+2025-05-29T11:29:00.526412,app,US,f84ef99e-b1cf-47f4-a37d-a6ed0679257e,1,Terrible experience,-0.4767,negative
+2025-06-01T12:35:00.526412,web,UK,f6eae7ba-ce38-48d7-a7a2-60eb51124e6e,1,Terrible experience,-0.4767,negative
+2025-06-02T02:17:00.526412,email,AU,770dddc7-65a9-4ba5-bb40-3985acd61851,3,Okay,0.2263,positive
+2025-06-02T15:10:00.526412,web,IN,a0884582-1ec4-4bb8-bc7a-fe8cdddd3569,3,Average,0.0,neutral
+2025-06-03T08:32:00.526412,survey,AU,2f10e5cd-93a0-4c90-ba04-1f29e8ad116d,5,Loved the product,0.5994,positive
+2025-06-04T02:45:00.526412,web,AU,c2a3fc5e-065d-4def-8839-2585dcb25210,5,Loved the product,0.5994,positive
+2025-06-03T16:17:00.526412,web,US,00091250-e1a8-40ff-8487-cb09c8006c20,4,Good experience,0.4404,positive
+2025-05-28T18:54:00.526412,web,AU,1805eecc-a852-4f54-b566-c07bfd349626,5,Excellent!,0.6114,positive
+2025-05-30T23:50:00.526412,survey,US,bcf6ff72-4778-4a61-af8d-98a3f45dcdc7,2,Slow response,0.0,neutral
+2025-06-01T17:31:00.526412,email,IN,63ea25e7-597f-432c-afd9-008793f1ac5c,3,Average,0.0,neutral
+2025-05-30T13:31:00.526412,web,IN,2573811f-1b84-4a37-8b87-adb354b6c880,4,Good experience,0.4404,positive
+2025-06-02T08:08:00.526412,email,US,10c90060-7e8d-4b7b-bf0e-0262279a88f1,2,Not great,-0.5096,negative
+2025-06-02T04:13:00.526412,survey,AU,240aed59-e4e8-4363-b135-c7c90f8cd0f9,1,Terrible experience,-0.4767,negative
+2025-05-30T19:36:00.526412,survey,IN,cfa4d0fb-0b63-4ff2-a2c7-175cf95188ab,5,Excellent!,0.6114,positive
+2025-05-31T05:06:00.526412,survey,AU,894fcb89-69cc-4da0-afde-2fd00986bfbb,5,Loved the product,0.5994,positive
+2025-05-31T12:25:00.526412,survey,IN,6b2c5d8d-1ee4-4d0c-bdbc-61b184a016f5,1,Terrible experience,-0.4767,negative
+2025-06-03T21:05:00.526412,web,US,021cd84e-348d-49ca-a6d6-9bff616bcaa7,1,App crashed,0.0,neutral
+2025-06-01T00:14:00.526412,app,UK,39024718-49f2-49fd-9faa-fd59173b69ee,2,Not great,-0.5096,negative
+2025-05-30T14:17:00.526412,survey,AU,ded8cb37-d29e-49e1-afb3-2ae8e1e15032,2,Slow response,0.0,neutral
+2025-06-03T22:12:00.526412,web,AU,aba2839b-e841-47bc-a3ad-f2e48f2100c8,2,Slow response,0.0,neutral
+2025-06-01T09:16:00.526412,web,AU,e6a1e3af-9de7-4488-bba1-f347a82946b4,5,Excellent!,0.6114,positive
+2025-05-31T10:09:00.526412,web,US,6b9a4036-12cf-4dcc-b627-1292783e2613,1,Terrible experience,-0.4767,negative
+2025-06-03T03:52:00.526412,app,AU,b99e372a-4eaf-48db-939a-1bf8813ec489,2,Slow response,0.0,neutral
+2025-06-03T16:09:00.526412,survey,US,104f2f6d-57fe-4299-aaab-01353d8266d9,4,Good experience,0.4404,positive
+2025-06-03T00:15:00.526412,web,IN,82431424-6f8e-452f-a3a6-0251e7e03f3a,4,Nice UI,0.4215,positive
+2025-06-03T16:22:00.526412,survey,AU,c5982c71-7ace-496f-92db-dcba3b95cf73,4,Good experience,0.4404,positive
+2025-06-01T09:47:00.526412,email,UK,995872b0-63e5-4850-9291-5edac221e57a,5,Loved the product,0.5994,positive
+2025-05-29T05:03:00.526412,survey,AU,ec4aeb8c-2b83-413e-acf5-be72707fbe28,1,Terrible experience,-0.4767,negative
+2025-05-31T10:37:00.526412,web,UK,0e0f5d31-9047-43cf-9ff4-b55e857a6a4c,4,Good experience,0.4404,positive
+2025-06-01T02:30:00.526412,app,IN,ad1f319c-f67c-4289-98df-500c6ba64575,5,Loved the product,0.5994,positive
+2025-06-04T00:47:00.526412,email,UK,03aaa6d7-d8df-48c6-86e1-537aac492310,2,Slow response,0.0,neutral
+2025-05-28T04:17:00.526412,web,US,de8c3dc5-11f5-4739-8980-e2e0dd39a929,1,Terrible experience,-0.4767,negative
+2025-05-31T15:58:00.526412,survey,AU,cf6193bc-bbb4-442d-a159-ea666e6fac2e,1,Terrible experience,-0.4767,negative
+2025-06-01T08:12:00.526412,app,AU,63112b08-49d7-44b2-a7dd-3ac829b381fc,4,Nice UI,0.4215,positive
+2025-06-03T05:01:00.526412,web,IN,684c93e2-7ade-4179-b909-ef8827bfebaf,3,Okay,0.2263,positive
+2025-05-28T12:01:00.526412,email,AU,b49f5747-d877-4d3d-9c27-12488bc271bb,4,Good experience,0.4404,positive
+2025-06-01T14:58:00.526412,app,UK,e8226b69-6b9d-4697-9896-a52c469b0d44,5,Loved the product,0.5994,positive
+2025-05-31T20:01:00.526412,app,IN,f8bae208-f6f5-451c-8d6c-e999ed9d8070,2,Slow response,0.0,neutral
+2025-06-01T14:43:00.526412,web,IN,b0e36caf-8088-4c45-9782-582db53704d1,3,Average,0.0,neutral
+2025-05-31T07:58:00.526412,email,UK,fa6b149c-ef01-43df-b517-4514f3e0e3ca,4,Good experience,0.4404,positive
+2025-06-02T22:04:00.526412,app,UK,a9d726ad-3524-4e9e-b5b5-5b1a75645c8d,4,Nice UI,0.4215,positive
+2025-05-29T21:37:00.526412,email,UK,db69c927-ceb2-4317-9dff-b962a6e80641,5,Loved the product,0.5994,positive
+2025-06-02T00:38:00.526412,app,UK,a3f020eb-2da9-4d38-99f2-44f4571cc350,2,Slow response,0.0,neutral
+2025-05-31T09:39:00.526412,app,IN,4249a054-44d5-4330-90b0-4c969bf1dad7,4,Good experience,0.4404,positive
+2025-06-01T04:01:00.526412,email,UK,17942e94-6c77-4cf4-b4bf-b2cd7365306b,3,Okay,0.2263,positive
+2025-05-30T02:24:00.526412,web,UK,cd9b6db6-61a7-4467-a0b3-f48d72a90ba4,3,Okay,0.2263,positive
+2025-06-03T11:50:00.526412,app,UK,44412f28-5575-43f8-89e2-1056e7932902,5,Excellent!,0.6114,positive
+2025-06-01T01:11:00.526412,survey,IN,79d3a337-517c-4c45-8609-2743004acee0,5,Excellent!,0.6114,positive
+2025-05-29T01:34:00.526412,email,AU,42c8d935-149f-4d06-bc43-92ed7270177f,1,App crashed,0.0,neutral
+2025-05-28T04:13:00.526412,email,IN,489c6109-5d6e-44d7-93d9-dd6e52364b09,3,Okay,0.2263,positive
+2025-05-31T01:14:00.526412,app,AU,34a11c50-f5dd-4dfa-87ba-719ca4899c00,2,Slow response,0.0,neutral
+2025-05-30T04:54:00.526412,app,AU,4496a3f9-1f18-4360-aeb3-8353af7c439f,4,Nice UI,0.4215,positive
+2025-06-04T02:39:00.526412,web,UK,e2ca5a9f-6756-4e01-8bf1-a5a6f5f50a6c,2,Not great,-0.5096,negative
+2025-05-28T12:40:00.526412,web,US,d51acfff-a7b1-410e-b7cc-26752b7a396b,4,Nice UI,0.4215,positive
+2025-05-31T01:03:00.526412,app,IN,b70868e9-4aab-47ce-ad09-904299c8e6b5,4,Good experience,0.4404,positive
+2025-06-03T17:28:00.526412,email,US,8d384b7a-d6b9-478a-96ba-385318c3d87b,1,App crashed,0.0,neutral
+2025-06-01T15:12:00.527909,web,US,6fd2dae4-d7c6-4d35-a8ca-171918af6214,4,Nice UI,0.4215,positive
+2025-05-31T13:18:00.527909,app,IN,f615b727-7e29-42bc-ab5a-47ea470bf221,2,Not great,-0.5096,negative
+2025-05-28T04:47:00.527909,email,UK,72982dde-ef59-4b64-a116-cb41074f3f99,1,Terrible experience,-0.4767,negative
+2025-06-03T12:40:00.527909,email,US,bcfb5923-71a7-4bb9-8fe8-371f8f864dbb,2,Not great,-0.5096,negative
+2025-05-28T22:30:00.527909,email,AU,a076fe7c-f88d-4646-91ad-5608f964e0ea,1,Terrible experience,-0.4767,negative
+2025-06-02T22:34:00.527909,web,UK,e8c8c04f-aaaf-4f17-a0dd-2c6feb7e216f,5,Loved the product,0.5994,positive
+2025-06-03T03:40:00.527909,web,UK,0629a9ab-47f1-40e5-b598-57584df5df7d,2,Not great,-0.5096,negative
+2025-05-31T17:56:00.527909,app,IN,6dd14766-6d08-4365-8858-000ca1a8f3a7,4,Nice UI,0.4215,positive
+2025-05-29T11:48:00.527909,app,AU,e6a0236d-69d8-43cf-a058-28d81f578df2,3,Okay,0.2263,positive
+2025-05-30T08:04:00.527909,app,AU,7fc3db17-ba21-4bde-8d3f-59b855f452ce,5,Excellent!,0.6114,positive
+2025-05-29T05:15:00.527909,app,IN,34aa8656-e8a4-4a33-b988-3a6f0c5652cc,3,Average,0.0,neutral
+2025-06-03T13:33:00.527909,app,AU,c645ca6f-749f-4f6e-adfc-1f11c8303e8e,1,Terrible experience,-0.4767,negative
+2025-06-03T01:24:00.527909,web,IN,0a2323e6-d57c-419e-936e-4044255f4d9a,5,Loved the product,0.5994,positive
+2025-05-31T09:13:00.527909,email,AU,dfe1800c-96cc-4723-8695-7eab74b1a8de,1,App crashed,0.0,neutral
+2025-05-29T11:59:00.527909,email,US,496b1202-cfe0-407b-9f42-147a22296d18,3,Okay,0.2263,positive
+2025-06-02T19:36:00.527909,survey,US,198ddb56-7a11-4ca3-876a-300d205f3525,2,Not great,-0.5096,negative
+2025-06-02T20:29:00.527909,survey,US,0d91b00e-adc9-4007-8e95-ddc0ac0270ed,1,App crashed,0.0,neutral
+2025-05-28T16:25:00.527909,app,UK,30742abe-f61b-4fb3-b37a-2aa4740f1e6e,2,Not great,-0.5096,negative
+2025-05-28T21:00:00.527909,app,IN,0a83fe81-29c4-41c9-86c2-61143f14edce,4,Nice UI,0.4215,positive
+2025-06-03T07:33:00.527909,web,UK,01376916-6ffe-41eb-a3e8-6ab1bc3bff42,4,Good experience,0.4404,positive
+2025-05-28T10:48:00.527909,web,AU,82c51d21-d19f-4526-9fb2-b5198d30cce2,3,Average,0.0,neutral
+2025-05-28T09:24:00.527909,email,AU,01094791-46df-4ea5-a7e9-0ab6cc4cf6a6,3,Average,0.0,neutral
+2025-06-03T06:54:00.527909,email,UK,185fea58-9b54-4cb8-815d-1866f4271386,4,Good experience,0.4404,positive
+2025-06-02T11:17:00.527909,email,US,7e7015f7-b180-4c9d-9d62-5ede15582807,4,Nice UI,0.4215,positive
+2025-05-31T07:02:00.527909,web,AU,e6e31dad-aaed-43a6-a6a4-5a56cb5f2c27,3,Okay,0.2263,positive
+2025-05-29T05:04:00.527909,web,AU,ad0b6755-5fb1-4e08-92df-0c243a1218dc,1,App crashed,0.0,neutral
+2025-06-03T16:30:00.527909,web,AU,66878f94-13b5-436b-8596-48c845209ad9,3,Okay,0.2263,positive
+2025-05-28T23:05:00.527909,email,IN,ac1858b7-9180-45f4-bff5-c8945e4fce82,3,Average,0.0,neutral
+2025-06-02T03:03:00.527909,email,US,abf1348b-fec6-4846-91b7-00299b028c3c,2,Slow response,0.0,neutral
+2025-06-02T18:29:00.527909,app,IN,da06ac5a-626e-49f5-97a4-78139c848399,2,Not great,-0.5096,negative
+2025-05-29T13:39:00.527909,survey,UK,f9e056da-4d07-46ee-ba0e-9ab2b07ee708,2,Not great,-0.5096,negative
+2025-06-03T00:48:00.527909,web,UK,5cf72279-ec94-4433-add9-a1dab9399565,3,Okay,0.2263,positive
+2025-05-31T15:26:00.527909,web,UK,5a1de38a-e2c1-4aeb-acad-9f7e3bd8a294,4,Nice UI,0.4215,positive
+2025-05-31T05:31:00.527909,app,US,4aa1243b-48fc-49b9-9b12-58de2422f32b,4,Nice UI,0.4215,positive
+2025-05-29T01:04:00.527909,email,AU,ab186c1c-efda-427b-9b40-e38faf789a87,2,Not great,-0.5096,negative
+2025-05-29T13:08:00.527909,email,IN,a67e83e1-0f8e-48ab-af72-315b6181628a,5,Loved the product,0.5994,positive
+2025-06-02T17:31:00.527909,web,UK,f994697c-9958-4326-8491-e1ea8d9c0a49,4,Good experience,0.4404,positive
+2025-05-31T02:52:00.527909,survey,US,89b6a347-ce5a-4647-820e-93136a094d96,1,App crashed,0.0,neutral
+2025-06-03T21:51:00.527909,web,UK,f5ce0919-673a-43d4-ba0a-1e7fd54b4552,3,Okay,0.2263,positive
+2025-06-01T11:43:00.527909,survey,US,9c4da22d-ed40-4b78-a231-cf82625a464e,2,Not great,-0.5096,negative
+2025-05-28T08:34:00.527909,app,UK,0d618fcd-5ef1-4a73-a488-1a0d049714b1,3,Okay,0.2263,positive
+2025-06-03T10:31:00.527909,app,IN,21b13a85-8ac1-41e3-b67e-582bf1126eb3,4,Good experience,0.4404,positive
+2025-05-28T22:49:00.527909,email,UK,5574c6fe-5237-41b1-a11d-b9ba4381eabb,2,Not great,-0.5096,negative
+2025-05-31T23:56:00.527909,app,UK,f0f6433a-5c91-42a1-bbf1-310f83847c02,5,Loved the product,0.5994,positive
+2025-05-28T19:30:00.527909,email,UK,d29c0bed-6744-4fa5-a6b9-71de210a2f28,2,Slow response,0.0,neutral
+2025-05-31T20:36:00.527909,app,AU,7922c738-b7d2-47c2-9e41-7e080c4b9175,1,Terrible experience,-0.4767,negative
+2025-05-31T02:27:00.527909,app,UK,587aac81-7e5e-49aa-ba4d-1b673964a1e3,1,Terrible experience,-0.4767,negative
+2025-06-03T00:40:00.527909,web,AU,4b888229-ccc0-4181-8fc7-09fa4a54ea92,5,Loved the product,0.5994,positive
+2025-05-28T20:18:00.527909,survey,AU,835f899c-59d7-40f7-acd9-317a7574f1c9,2,Slow response,0.0,neutral
+2025-05-31T03:43:00.527909,app,IN,d63038ca-aeb4-42cc-806b-bbe66f8bebe6,4,Nice UI,0.4215,positive
+2025-05-31T20:28:00.527909,app,IN,2d2c2a43-8c2a-484e-b92c-8da3ab74378e,2,Not great,-0.5096,negative
+2025-06-01T19:37:00.527909,email,US,108c54d8-116d-4aa0-8ffc-33c417c605c3,2,Not great,-0.5096,negative
+2025-06-03T11:38:00.527909,app,AU,76d97b33-1c73-4d4a-99db-5107cc872644,3,Okay,0.2263,positive
+2025-06-02T22:29:00.527909,email,UK,378802ca-a216-4c40-8264-3b795d57f1cc,5,Excellent!,0.6114,positive
+2025-06-02T05:30:00.527909,app,IN,cd715a8c-7eea-47fc-8d8c-de9f2e838c99,3,Okay,0.2263,positive
+2025-05-30T01:26:00.527909,survey,UK,7618da33-4444-4572-97aa-eca5f0c238c0,1,App crashed,0.0,neutral
+2025-06-01T13:04:00.527909,email,AU,2a98c805-906c-4967-88ec-32175ffca08a,1,Terrible experience,-0.4767,negative
+2025-05-29T12:44:00.527909,survey,UK,a30a03aa-7f35-40b1-97c1-7d0196792605,5,Excellent!,0.6114,positive
+2025-05-30T07:37:00.527909,email,UK,68055d50-6499-475f-8c2a-9e4058277be4,4,Nice UI,0.4215,positive
+2025-06-01T23:52:00.527909,web,IN,79b1a52f-38c3-4a42-9c1d-8b787ccd748b,3,Average,0.0,neutral
+2025-05-30T02:16:00.527909,app,US,6ddb1639-0d7f-4750-99c2-c8e096c00dc8,2,Not great,-0.5096,negative
+2025-06-02T14:17:00.527909,app,UK,850acced-9a30-4d01-bf44-487726592364,4,Nice UI,0.4215,positive
+2025-05-31T23:35:00.527909,survey,UK,a4159cb6-1947-4f29-ba6b-7478771a6e01,1,App crashed,0.0,neutral
+2025-06-02T16:45:00.527909,email,IN,476d0657-673d-4a58-ba4d-359314bf90ab,3,Average,0.0,neutral
+2025-05-28T22:45:00.527909,email,IN,4ce54719-5da1-4872-bf95-89c4cf6a0bbb,2,Slow response,0.0,neutral
+2025-05-30T17:53:00.527909,web,UK,87adb119-f544-4801-bd56-ff1ce67005e2,3,Okay,0.2263,positive
+2025-06-02T21:04:00.527909,email,AU,9c673e1c-6fbc-4e4f-b9ca-fb596e1c59a4,3,Average,0.0,neutral
+2025-05-28T05:07:00.527909,app,UK,f714d31c-9ada-41e4-b575-3ec74e76e2ba,1,Terrible experience,-0.4767,negative
+2025-05-28T09:32:00.527909,email,AU,c05f512a-393d-4e4a-9aeb-4bc04ff72936,1,App crashed,0.0,neutral
+2025-05-29T09:34:00.527909,web,IN,510eea62-3e86-4797-b5aa-8c85b97fa97b,2,Not great,-0.5096,negative
+2025-06-02T08:55:00.527909,web,AU,2551711e-4431-4729-8627-a421b39cc2bd,3,Okay,0.2263,positive
+2025-06-02T11:51:00.527909,survey,AU,849f61ce-805d-477a-9ae0-26cde76ae32a,5,Excellent!,0.6114,positive
+2025-06-02T04:05:00.527909,email,UK,f2bc0cbc-0b7a-4105-9e39-65db47045e7c,1,Terrible experience,-0.4767,negative
+2025-05-31T17:46:00.527909,email,IN,946ac65f-fa0a-4ac0-b67e-f3c1be00f5ca,1,Terrible experience,-0.4767,negative
+2025-06-03T16:59:00.527909,web,AU,1d6dfbe5-3e89-4915-b07d-ce851a74c7b4,2,Not great,-0.5096,negative
+2025-06-03T19:54:00.527909,app,AU,2c0d0fc3-cfd4-4b80-84d5-365a5f7a65e1,3,Okay,0.2263,positive
+2025-05-29T02:51:00.527909,email,US,b0d40ecb-be46-48ce-951d-f6ae99556b31,5,Excellent!,0.6114,positive
+2025-06-04T01:33:00.527909,app,US,87f1afff-6468-4473-bcef-fbe01962f604,1,Terrible experience,-0.4767,negative
+2025-06-01T08:56:00.527909,survey,UK,9b92bb24-6558-4904-8a7c-3437d55b671a,2,Not great,-0.5096,negative
+2025-06-01T07:55:00.527909,app,UK,e7e005de-8c45-4d63-9550-3d1447f0330e,3,Okay,0.2263,positive
+2025-06-02T13:31:00.527909,survey,IN,afe1a608-f635-44f8-aeae-79e2b3802d2e,5,Excellent!,0.6114,positive
+2025-06-02T07:52:00.527909,survey,IN,52a455c9-268e-4932-abee-0b413fb7c2ca,4,Nice UI,0.4215,positive
+2025-05-31T03:53:00.527909,survey,IN,f4cbe76b-cdfa-4bff-a7ac-9517c22e2388,1,App crashed,0.0,neutral
+2025-05-31T01:12:00.527909,email,AU,d87f40ed-8201-4cf7-876e-c1d9f16bb032,4,Good experience,0.4404,positive
+2025-06-01T11:06:00.527909,app,IN,ca6e54a8-bf40-4b18-8c0b-5d380fe25730,1,Terrible experience,-0.4767,negative
+2025-05-31T11:18:00.527909,app,US,ce59fa8e-c96f-4b76-8d33-38d7cca9f68b,1,Terrible experience,-0.4767,negative
+2025-05-30T01:38:00.527909,web,US,e736aac7-c97d-41ec-b66b-19c9d4b4c9be,4,Nice UI,0.4215,positive
+2025-06-04T02:36:00.527909,app,AU,fae5bb61-0825-49a0-9263-bdb72e224d5a,3,Average,0.0,neutral
+2025-06-01T01:53:00.527909,app,IN,8dc528e3-5a3b-4779-bf92-f867a676b70b,4,Good experience,0.4404,positive
+2025-06-01T10:52:00.527909,web,US,846e4531-c2ee-4210-9ee9-a26c6075b444,2,Slow response,0.0,neutral
+2025-05-31T18:36:00.527909,survey,IN,196a6c90-9eff-462b-9cbd-0fdf1e3143d1,2,Slow response,0.0,neutral
+2025-06-01T21:04:00.527909,email,US,5f0d6c78-54b1-4111-9492-db1596c13d06,4,Nice UI,0.4215,positive
+2025-05-28T15:44:00.527909,email,IN,e8488330-7701-4c78-839a-dfec9594fbff,1,Terrible experience,-0.4767,negative
+2025-06-03T12:31:00.527909,app,US,7e13fbb3-2c7b-4c92-8ac1-2f07aa6b9e6a,1,App crashed,0.0,neutral
+2025-06-03T03:06:00.527909,web,AU,4a3550ec-4ace-4cf8-9745-76dd2ec4146d,4,Good experience,0.4404,positive
+2025-05-31T23:09:00.528904,web,UK,a33f2ab8-679b-4afe-a328-4c0e71b85bcf,5,Excellent!,0.6114,positive
+2025-06-02T12:35:00.528904,survey,IN,6fa53880-bb91-4ad4-9d43-01f75783f852,5,Loved the product,0.5994,positive
+2025-06-01T08:24:00.528904,survey,US,7a91cdde-36f6-42b2-adff-6fa42e14f4d6,2,Not great,-0.5096,negative
+2025-05-28T11:44:00.528904,survey,IN,ff3118bd-d7ca-4403-82a4-a128fcae7ba4,2,Not great,-0.5096,negative
+2025-06-02T13:03:00.528904,survey,IN,c088c6b1-aa2e-42f7-9ee9-ec37e00c3aca,1,Terrible experience,-0.4767,negative
+2025-06-02T14:53:00.528904,email,US,67cece45-80d7-48fd-ba85-bf279621e9e2,5,Loved the product,0.5994,positive
+2025-06-03T14:45:00.528904,email,AU,953622d1-ec53-495e-ac46-0c89e6aa2d9b,1,Terrible experience,-0.4767,negative
+2025-05-29T17:51:00.528904,app,US,7958e02a-159d-4d15-8a5f-a80637f43a8f,3,Okay,0.2263,positive
+2025-06-01T16:24:00.528904,survey,US,26d6e0d8-e11c-4c08-9099-5916debc3e12,1,App crashed,0.0,neutral
+2025-05-28T15:57:00.528904,survey,AU,e2b8aba4-442a-4685-a3b9-472a3662ba0e,5,Excellent!,0.6114,positive
+2025-05-29T05:07:00.528904,survey,IN,200e0a5e-abc1-4840-93e7-b04735a5cc20,2,Slow response,0.0,neutral
+2025-05-31T05:37:00.528904,web,UK,b2941d83-d878-46f1-a5e8-f45823059b60,3,Average,0.0,neutral
+2025-05-30T04:53:00.528904,survey,AU,7ee4d3e3-1ea2-46cf-9234-4820eb6dbf22,1,Terrible experience,-0.4767,negative
+2025-05-29T04:07:00.528904,email,AU,bcfa0342-4416-4819-9e9e-8943b51294df,5,Excellent!,0.6114,positive
+2025-05-30T12:27:00.528904,web,AU,68000e46-c324-48cb-8530-cd63adb668ad,5,Excellent!,0.6114,positive
+2025-06-03T20:32:00.528904,survey,US,232c7ff0-065c-4f17-a7b3-36c2f9de6bf7,3,Average,0.0,neutral
+2025-05-31T02:35:00.528904,app,IN,017829a3-a3c6-42c1-b73f-26acf23652a8,5,Excellent!,0.6114,positive
+2025-05-30T08:27:00.528904,app,UK,9a8e8220-8f6e-47ca-9c91-e762e3334541,3,Average,0.0,neutral
+2025-06-01T06:58:00.528904,email,UK,e76c102d-f636-4a27-b927-1520de24f913,3,Average,0.0,neutral
+2025-06-02T02:22:00.528904,email,UK,6f523897-a8f4-4471-9000-491cd9ff455d,1,Terrible experience,-0.4767,negative
+2025-06-03T17:00:00.528904,survey,US,af7a6111-e2ca-4dc0-b3fc-ca9c719b8bc3,4,Good experience,0.4404,positive
+2025-05-29T08:59:00.528904,email,UK,ba586db7-4b32-40e2-a0b5-5e6bcd092bd1,4,Good experience,0.4404,positive
+2025-05-30T00:06:00.528904,web,AU,52fb9ae9-7153-44fe-9e3c-5e00695e5017,2,Not great,-0.5096,negative
+2025-06-03T17:21:00.528904,web,AU,dc8a9565-f37c-4f70-a103-e9a7841cb723,5,Excellent!,0.6114,positive
+2025-06-01T12:28:00.528904,web,US,0ec40dea-d43a-48c4-bdcb-ec955cd6a910,5,Loved the product,0.5994,positive
+2025-05-28T04:15:00.528904,web,US,066df5bd-6356-439a-b8dd-ed513551440a,5,Loved the product,0.5994,positive
+2025-06-03T01:21:00.528904,web,IN,dfb99d3a-328e-41eb-89b6-c1410d584e3a,1,Terrible experience,-0.4767,negative
+2025-06-01T22:06:00.528904,email,AU,22f4e74b-f6f9-40aa-8002-31a106cb46bd,1,Terrible experience,-0.4767,negative
+2025-06-02T12:32:00.528904,email,AU,71fedeb9-e38f-49d9-8915-809faeeffbd6,4,Nice UI,0.4215,positive
+2025-05-31T02:45:00.528904,survey,IN,cbe75830-b888-47a1-a4be-401b7d101582,4,Good experience,0.4404,positive
+2025-05-31T23:38:00.528904,app,UK,4cb4d739-81c4-4a07-b4d7-fbded33584b1,3,Average,0.0,neutral
+2025-05-29T21:35:00.528904,survey,IN,90563694-47cb-4c20-abf3-1f97fa2ac293,1,Terrible experience,-0.4767,negative
+2025-06-03T09:53:00.528904,survey,UK,0009bbfb-40b1-45a9-a32f-de81cc2405c6,5,Excellent!,0.6114,positive
+2025-05-31T22:05:00.528904,survey,AU,177800ad-077e-42ef-bcbb-b62ce6c5bd1c,4,Good experience,0.4404,positive
+2025-05-28T05:06:00.528904,survey,UK,bf6e7110-8142-4ca7-943b-a4de1e9ae22e,4,Nice UI,0.4215,positive
+2025-05-31T20:08:00.528904,app,IN,7f93283e-6495-4177-86f3-c6c6c16e4fe4,1,Terrible experience,-0.4767,negative
+2025-05-30T00:18:00.528904,email,UK,bf5f1e3b-c4f7-4479-a5fd-ea238222671b,1,Terrible experience,-0.4767,negative
+2025-05-31T11:15:00.528904,app,UK,7e1af32a-e70b-4179-962c-089eacda2408,5,Excellent!,0.6114,positive
+2025-06-03T19:53:00.528904,email,IN,5905073d-48fa-4d6f-a1fb-48cb98ae199d,5,Excellent!,0.6114,positive
+2025-06-03T11:46:00.528904,web,UK,fb7a35f7-d9d9-40cd-8c63-fd5f93b49d1a,3,Average,0.0,neutral
+2025-06-01T11:41:00.528904,app,AU,bb4fbad0-a9d0-47cd-bdc1-4ab2d1683d5b,2,Slow response,0.0,neutral
+2025-05-29T05:06:00.528904,app,US,6b39a34b-91e6-4de6-990a-7741ed34cf80,3,Okay,0.2263,positive
+2025-06-01T13:53:00.528904,web,US,1e933b4d-fed0-409e-8d65-de3c2ecdd152,2,Not great,-0.5096,negative
+2025-06-03T22:25:00.528904,email,AU,d8a00632-e6b7-480f-a1b1-7f0ef80b9557,1,Terrible experience,-0.4767,negative
+2025-05-28T16:35:00.528904,web,US,34f4d4bf-163d-4b55-a63d-98c105a125fc,4,Good experience,0.4404,positive
+2025-06-03T12:14:00.528904,email,IN,3af8114b-3dbd-4eb8-abfe-d2a31266bf29,1,App crashed,0.0,neutral
+2025-06-03T20:08:00.528904,email,AU,2472a236-17cd-417e-85d5-49202fd46ac8,4,Good experience,0.4404,positive
+2025-06-03T15:00:00.528904,survey,UK,2bb1f5e3-7261-4102-99df-c0f37e6a1d45,5,Loved the product,0.5994,positive
+2025-05-29T06:57:00.528904,email,AU,a579001c-c243-4a79-bc0e-04f21c5d0399,4,Good experience,0.4404,positive
+2025-06-04T00:25:00.528904,survey,UK,7a6b4a0b-1139-486e-b431-2058faee00e5,1,App crashed,0.0,neutral
+2025-05-29T00:24:00.528904,email,AU,31dac495-e4a6-49d3-85ac-2252d8cee2e9,4,Good experience,0.4404,positive
+2025-05-29T23:16:00.528904,email,UK,ff45f53c-7840-4926-8dd2-2e8479464e59,1,Terrible experience,-0.4767,negative
+2025-06-01T07:52:00.528904,app,AU,409b55a1-e8ee-4bd9-af2f-0ad201918bb4,2,Slow response,0.0,neutral
+2025-05-29T20:44:00.528904,email,AU,de2ca7d3-4932-4cf4-9244-acfc28347782,2,Not great,-0.5096,negative
+2025-06-01T01:15:00.528904,app,IN,56473370-725f-45a2-af3f-bab1acef81b4,5,Excellent!,0.6114,positive
+2025-05-28T21:21:00.528904,email,IN,ff680426-0f4f-4358-b23b-7f4d3fc00efe,4,Good experience,0.4404,positive
+2025-05-31T04:32:00.528904,web,UK,f65685fc-827c-4bd9-bbbc-0e3e844476eb,3,Average,0.0,neutral
+2025-05-28T14:23:00.528904,survey,IN,10046860-1fd3-4dd5-b78d-681141232ee8,4,Good experience,0.4404,positive
+2025-05-29T17:20:00.528904,web,AU,423e4b36-7329-4bf6-af03-2301344192bd,5,Loved the product,0.5994,positive
+2025-05-30T09:47:00.528904,survey,IN,40b25e0f-eeca-47d4-bf02-ab7d06ce05a1,3,Average,0.0,neutral
+2025-05-29T19:33:00.528904,web,IN,8c016b5f-9c2d-4c29-be9f-6e444bc90584,4,Good experience,0.4404,positive
+2025-05-29T13:26:00.528904,survey,UK,d17c5104-2b42-4d82-b3c1-44a7a0c978a3,5,Loved the product,0.5994,positive
+2025-05-28T20:07:00.528904,email,IN,70cf87a7-8e9e-49c0-ba03-981a6fb7d9f5,2,Not great,-0.5096,negative
+2025-06-03T18:43:00.528904,email,IN,5d7ed6c9-4d7e-407f-97a3-b37b817c3745,1,App crashed,0.0,neutral
+2025-05-29T10:10:00.528904,web,IN,34586732-a8a0-4a1a-b275-0e4e5715612f,5,Loved the product,0.5994,positive
+2025-05-31T20:14:00.528904,email,US,9df4247a-7b4d-44ce-9561-1c65359834ee,2,Not great,-0.5096,negative
+2025-05-31T06:01:00.528904,email,AU,97650290-a86c-4c26-894f-ef4bd54409f0,1,Terrible experience,-0.4767,negative
+2025-05-31T15:20:00.528904,app,US,215d7219-ea28-4487-a51d-e73b67e35890,5,Excellent!,0.6114,positive
+2025-05-29T23:49:00.528904,survey,UK,c8aa8e49-452a-4ae5-ad87-fe5d0a1f1f61,4,Nice UI,0.4215,positive
+2025-05-30T22:28:00.528904,survey,IN,900327cb-e800-4f31-9a70-7767cd614e12,2,Slow response,0.0,neutral
+2025-05-31T13:54:00.528904,web,US,e9b6d048-6755-4b53-b76b-b3ede269d38c,5,Loved the product,0.5994,positive
+2025-06-03T20:05:00.528904,email,UK,0cb4706c-e265-4128-a702-8d4fa6721bbc,2,Slow response,0.0,neutral
+2025-06-02T01:18:00.528904,web,AU,c4bf3965-cdde-417a-8c1c-49aab793dc34,5,Loved the product,0.5994,positive
+2025-06-02T20:12:00.528904,survey,UK,91a02ad5-e7a8-4920-beef-9ae27ae2ff1d,4,Good experience,0.4404,positive
+2025-06-01T13:10:00.528904,email,AU,19cbcbe8-576b-47a3-8d34-62149617ce8d,4,Nice UI,0.4215,positive
+2025-05-30T15:16:00.528904,web,AU,f1169d7e-a4ca-41a1-9301-37225f767de1,2,Slow response,0.0,neutral
+2025-05-29T07:44:00.528904,email,US,f1b60a37-57b3-4575-b502-6e960bc7c78f,3,Average,0.0,neutral
+2025-05-29T08:21:00.528904,survey,US,21003d6c-8cda-48cc-ab9e-5a26c29d38b6,4,Nice UI,0.4215,positive
+2025-06-01T21:29:00.528904,survey,UK,5423dbc4-939d-491e-8215-33b8945b99a4,2,Slow response,0.0,neutral
+2025-06-01T01:47:00.528904,email,IN,c3b05fee-8a10-4a83-b818-22392df473a0,2,Not great,-0.5096,negative
+2025-05-29T10:30:00.528904,app,AU,300dac71-2bd7-48df-920c-9f26ddbfdf6d,1,Terrible experience,-0.4767,negative
+2025-06-01T03:16:00.528904,email,AU,daf58530-990f-4799-b3ca-fc91649f8efa,3,Average,0.0,neutral
+2025-05-31T20:50:00.528904,survey,IN,50371aaf-ae9d-48a8-b2ff-2cf9a2bfde26,4,Nice UI,0.4215,positive
+2025-06-02T20:22:00.528904,web,IN,03eef055-eae2-42c2-8ab8-a6d989919c59,4,Nice UI,0.4215,positive
+2025-05-29T22:22:00.528904,app,US,f9618804-3d09-4808-b914-e66fa1c789da,2,Slow response,0.0,neutral
+2025-05-31T01:54:00.528904,email,AU,e99d2f8d-5c1a-428a-af61-d665923aea6b,5,Loved the product,0.5994,positive
+2025-05-29T11:07:00.528904,survey,AU,783c7ab2-4ca5-4a2b-a463-8d69cf37d270,4,Nice UI,0.4215,positive
+2025-05-29T08:09:00.528904,app,AU,493cb3d7-c6d5-46b2-9fe0-2a84a73067f8,1,App crashed,0.0,neutral
+2025-06-03T20:56:00.528904,app,AU,51324afd-ee6e-4c82-9991-33351e219917,4,Good experience,0.4404,positive
+2025-06-01T13:41:00.528904,survey,UK,ca0c1d3b-3039-4045-a688-cf55447d6c77,4,Good experience,0.4404,positive
+2025-06-03T19:37:00.528904,survey,AU,9cdd17bd-d922-4fdf-aa2f-3dc51007ef7e,2,Slow response,0.0,neutral
+2025-05-30T19:31:00.528904,survey,UK,b388e608-6263-4fcb-9d00-e0a0d4170fc4,5,Loved the product,0.5994,positive
+2025-05-31T08:47:00.528904,email,IN,caa43b8b-1cf6-4e0c-8a27-bd99c093e641,2,Slow response,0.0,neutral
+2025-05-30T06:46:00.529901,web,IN,23215227-d0e7-4b5a-b6db-ad1fac01ea7f,5,Excellent!,0.6114,positive
+2025-05-29T16:49:00.529901,email,AU,3c2e1c51-0326-43ec-99b9-d7df31ecefaa,2,Not great,-0.5096,negative
+2025-06-02T13:25:00.529901,email,US,a71e15c5-bf72-4c04-89ac-58bc21367797,5,Loved the product,0.5994,positive
+2025-06-03T05:46:00.529901,survey,AU,8072a143-3ba2-4d7e-8323-569e1839c4ca,5,Loved the product,0.5994,positive
+2025-05-29T04:21:00.529901,app,IN,6a2500ce-cd1e-4dc1-abcf-14bbea5f53fb,2,Not great,-0.5096,negative
+2025-06-02T22:59:00.529901,web,UK,766faa33-cd0a-42d2-a2f8-0ac09106adc3,2,Not great,-0.5096,negative
+2025-05-28T22:32:00.529901,app,UK,e91f5f37-8c2b-481f-af2c-9025efc5ebaa,2,Not great,-0.5096,negative
+2025-06-01T14:20:00.529901,email,US,48c80c25-5a7c-4cd3-a590-c59bc5d0e411,2,Not great,-0.5096,negative
+2025-05-28T19:43:00.529901,survey,AU,641a960d-754b-47da-8336-8130e9b72e3d,5,Loved the product,0.5994,positive
+2025-06-03T07:02:00.529901,email,US,9e7a8f4e-3f08-4103-8481-dd9e236c8f5d,3,Okay,0.2263,positive
+2025-05-29T03:25:00.529901,app,AU,8d4dc274-8107-4f33-8c6b-70092d56f6be,2,Slow response,0.0,neutral
+2025-05-28T08:35:00.529901,web,US,2d1844fd-4796-45e0-be18-d99e6b410f6d,3,Okay,0.2263,positive
+2025-06-03T20:24:00.529901,app,UK,a23ae623-17e2-46d6-846b-b88048db7cb6,2,Slow response,0.0,neutral
+2025-05-30T07:31:00.529901,survey,AU,97b51f23-43d3-4194-890f-eef8f5a03db9,1,Terrible experience,-0.4767,negative
+2025-05-31T09:30:00.529901,web,UK,e890e2a6-5728-45a6-9924-e8edb5bfe9ac,2,Slow response,0.0,neutral
+2025-05-29T16:03:00.529901,app,AU,9bbb2b3d-47c9-43ba-b6a3-6acfc37c65a3,5,Excellent!,0.6114,positive
+2025-06-01T04:22:00.529901,email,IN,c748b55f-cc59-47bd-85f5-935e2140a56f,1,Terrible experience,-0.4767,negative
+2025-05-28T07:59:00.529901,web,UK,7f941a4a-e6e8-4b88-ae6a-21d20879ffc4,4,Good experience,0.4404,positive
+2025-05-29T20:54:00.529901,web,US,9b78fe00-6ed1-4dd1-a776-3903df2e7208,2,Not great,-0.5096,negative
+2025-06-01T03:47:00.529901,app,AU,b1015d01-bf52-4095-88bf-c9198f916cfa,2,Slow response,0.0,neutral
+2025-05-30T01:09:00.529901,web,US,8f8b3f07-ed9c-4445-8b92-790935d5d25c,1,Terrible experience,-0.4767,negative
+2025-05-29T17:20:00.529901,app,US,3c2bea32-955d-43eb-9b79-1fdd061adccd,1,Terrible experience,-0.4767,negative
+2025-06-03T03:31:00.529901,web,US,761327ee-ed37-4555-9397-b67a6eca388d,4,Nice UI,0.4215,positive
+2025-05-28T09:12:00.529901,survey,IN,d50204cc-ddab-47d3-8fa8-457d82348157,2,Not great,-0.5096,negative
+2025-05-28T04:46:00.529901,web,IN,f4067dd4-1915-478b-a334-e851f477b0a1,2,Not great,-0.5096,negative
+2025-06-01T06:51:00.529901,web,UK,5e80ef47-1ae4-4b1f-8360-587d0517d12a,5,Loved the product,0.5994,positive
+2025-05-31T12:34:00.529901,app,US,3ea31427-415e-4962-bce4-d6226a63776e,3,Average,0.0,neutral
+2025-05-29T21:03:00.529901,survey,IN,887b5ec8-06d4-4d42-a37c-500f34da585a,5,Loved the product,0.5994,positive
+2025-06-03T07:46:00.529901,email,UK,1f5d42ef-06f1-49b6-bece-d4463d85a3b3,5,Loved the product,0.5994,positive
+2025-05-29T18:59:00.529901,survey,US,4e30470e-8935-4b14-b2e9-0f68b9aa7d04,3,Okay,0.2263,positive
+2025-05-30T17:14:00.529901,email,AU,66b2264f-3e2b-4eda-8371-a65d790f93e3,2,Not great,-0.5096,negative
+2025-05-30T00:40:00.529901,web,US,c0afdcf4-e2da-483e-a0fb-4238a6391272,1,App crashed,0.0,neutral
+2025-06-01T09:50:00.529901,survey,AU,2c1e75f2-955f-4e6d-b303-d12be5eaea5f,4,Good experience,0.4404,positive
+2025-06-01T02:06:00.529901,email,IN,feb00822-b41e-4f7c-9931-a89ca8730b83,2,Not great,-0.5096,negative
+2025-06-01T22:35:00.529901,survey,AU,2ca0285b-2f89-494c-9324-99d6cc6eaf79,2,Slow response,0.0,neutral
+2025-05-29T12:39:00.529901,app,US,978a5997-8ab7-4789-b343-5f01d1cc6db1,5,Loved the product,0.5994,positive
+2025-06-01T10:02:00.529901,web,US,6d6ba524-ce15-4611-b0f6-1a3bcdbf8bff,1,App crashed,0.0,neutral
+2025-05-29T12:09:00.529901,email,IN,203055e0-a385-410c-8ebb-1fb6fff38b92,3,Okay,0.2263,positive
+2025-05-28T17:19:00.529901,web,US,8fd2cdf9-0d31-4273-9de5-7a1b46200f4c,1,App crashed,0.0,neutral
+2025-05-31T05:48:00.529901,survey,IN,33e57650-3be1-47f7-90fd-b65a82640e01,4,Good experience,0.4404,positive
+2025-05-31T02:14:00.529901,app,AU,fd709fa1-fd23-4092-8d55-43a8b6840754,5,Excellent!,0.6114,positive
+2025-06-02T13:25:00.529901,app,AU,3f41bbb6-099c-47a9-bd17-ce1ef75637bb,1,App crashed,0.0,neutral
+2025-05-31T02:28:00.529901,email,UK,cb8c5ee1-b94d-4609-8c84-78434a6fe46b,5,Loved the product,0.5994,positive
+2025-06-01T08:53:00.529901,survey,AU,fb0e2973-b011-442f-8d7a-bf6a8a23dcc0,1,App crashed,0.0,neutral
+2025-05-30T19:06:00.529901,survey,IN,d7041a7b-a812-4689-9439-294b54923735,3,Okay,0.2263,positive
+2025-05-29T16:40:00.529901,web,US,3f149423-76e8-4cbf-b1a6-860e05fefaf8,4,Nice UI,0.4215,positive
+2025-05-31T09:36:00.529901,app,UK,6a1d8943-a66c-49d9-a2da-ba59dff11cee,5,Excellent!,0.6114,positive
+2025-06-02T11:34:00.529901,web,UK,3fe10a7d-ed55-4c68-b68e-26609b12be93,4,Good experience,0.4404,positive
+2025-05-29T01:02:00.529901,web,US,bf0a6e74-3d10-46a9-ba14-d03588540612,3,Okay,0.2263,positive
+2025-05-29T22:48:00.529901,web,US,356f50ee-3bd7-43af-98f1-6fb87e62b678,2,Slow response,0.0,neutral
+2025-06-02T08:34:00.529901,email,IN,c327a0c9-3260-4400-a3f2-ddfe22aadfa5,2,Slow response,0.0,neutral
+2025-05-30T00:53:00.529901,survey,US,8270a467-74e7-4b58-8aa2-1e546d30b3f8,4,Nice UI,0.4215,positive
+2025-06-03T17:29:00.529901,web,IN,c231e774-ffc1-4e98-b6fe-60c2f1dd6ff2,2,Slow response,0.0,neutral
+2025-06-02T03:52:00.529901,email,UK,489c5698-491e-4d73-9f8a-d336aa68d029,4,Good experience,0.4404,positive
+2025-05-28T13:42:00.529901,email,AU,b775d5bc-8da6-4ae6-ac47-dad68dc6a2d6,3,Okay,0.2263,positive
+2025-06-02T20:28:00.529901,app,US,2de8629d-e4ee-453d-a7cc-a67d1e55906b,2,Slow response,0.0,neutral
+2025-05-31T11:29:00.529901,web,IN,b59adb3c-14af-4809-9f1e-f3cd3b3eaade,1,Terrible experience,-0.4767,negative
+2025-06-02T09:05:00.529901,email,IN,1b66a72f-9751-40e7-8be7-b146f3fa333c,5,Excellent!,0.6114,positive
+2025-05-29T22:20:00.529901,email,IN,d3b63fa5-58ee-45cd-b1fc-8a90afd97a3f,1,Terrible experience,-0.4767,negative
+2025-05-28T11:22:00.529901,web,UK,d3b5bde4-9f79-4f88-b0b8-8de1dc4b1e9d,2,Slow response,0.0,neutral
+2025-06-04T00:19:00.529901,web,AU,7bf691e9-8f34-4683-81a9-2269628bbcb8,4,Nice UI,0.4215,positive
+2025-06-01T14:35:00.529901,survey,UK,95cc0356-f35e-4c02-ba92-eae407c8e4a1,5,Excellent!,0.6114,positive
+2025-05-31T20:45:00.529901,app,AU,7329a701-72e2-4729-9910-057871d413c4,1,App crashed,0.0,neutral
+2025-06-03T20:10:00.529901,survey,IN,07d74ec9-c9c2-4eb2-986a-0083640e5cc6,3,Average,0.0,neutral
+2025-05-31T06:27:00.529901,email,US,8ed33c8d-2795-4b4f-9f80-93b43d479474,3,Average,0.0,neutral
+2025-05-29T09:33:00.529901,survey,AU,9bc282f1-e22e-42bd-af74-9a5b15a2df71,3,Average,0.0,neutral
+2025-05-30T07:16:00.529901,survey,UK,0770ed13-7f61-4db9-96ee-5a8b16d3e18a,2,Slow response,0.0,neutral
+2025-05-30T10:32:00.529901,email,UK,c0b40e6c-635d-4679-b530-de493d0cd8d6,4,Good experience,0.4404,positive
+2025-06-02T16:26:00.529901,survey,IN,018d9df2-6f32-422c-b4f0-481484949337,2,Slow response,0.0,neutral
+2025-05-29T12:34:00.529901,web,AU,63898a43-e08b-4508-9084-cbe3bcfcc169,3,Average,0.0,neutral
+2025-06-02T17:45:00.529901,survey,US,17595dc2-ab2e-423b-b7cc-c963c0a62d9a,2,Slow response,0.0,neutral
+2025-05-28T13:43:00.529901,web,AU,f4985611-e6cf-498e-8f50-2516f0e1cd4d,1,App crashed,0.0,neutral
+2025-06-02T00:38:00.529901,email,US,bd25c7db-4f8f-4735-860d-91cc26548010,1,Terrible experience,-0.4767,negative
+2025-06-02T14:44:00.529901,web,US,acfb5774-2545-4cfb-8795-a016c2db754a,4,Nice UI,0.4215,positive
+2025-06-02T10:59:00.529901,web,UK,7e0311b6-4b97-4659-bb02-b80c3de43b20,3,Average,0.0,neutral
+2025-05-30T23:12:00.529901,web,AU,d749b788-af7c-41ac-b7ce-cfacd7c8cf73,1,Terrible experience,-0.4767,negative
+2025-05-30T21:09:00.529901,survey,US,3031578c-3dfb-4501-8441-9a96f963a31c,5,Loved the product,0.5994,positive
+2025-05-29T10:56:00.529901,web,UK,4b55855e-b5c2-4a36-a2eb-46509f6933e0,3,Average,0.0,neutral
+2025-05-28T14:23:00.529901,email,IN,495a2f3b-ab6e-4df7-a2de-1c02dafc2ce2,3,Average,0.0,neutral
+2025-06-01T12:36:00.529901,app,US,238983f7-d080-47f4-a452-7e14e0d257da,5,Excellent!,0.6114,positive
+2025-06-04T02:23:00.529901,survey,US,d823f879-0785-42ec-9998-6897bb9191d0,3,Okay,0.2263,positive
+2025-06-03T01:21:00.529901,email,US,78a7ea1e-5f58-4b31-b459-fac4523521e5,2,Slow response,0.0,neutral
+2025-06-03T10:46:00.529901,web,AU,e42fd66f-19f1-4ffa-8d85-c0e1e5e0cf1a,1,Terrible experience,-0.4767,negative
+2025-05-30T12:58:00.529901,email,AU,ffaf3747-b7e5-42d1-ba60-04dd6c7299f6,2,Not great,-0.5096,negative
+2025-05-29T01:07:00.529901,web,US,87b0b81e-3157-4953-a68c-45c3c677fbee,1,App crashed,0.0,neutral
+2025-05-29T11:20:00.529901,survey,AU,b88d3f5f-d548-47c8-8a1d-6311e2345b36,4,Nice UI,0.4215,positive
+2025-06-02T23:07:00.529901,web,UK,314022eb-9c1b-462e-a85d-2610e2b9aa4f,1,Terrible experience,-0.4767,negative
+2025-05-31T06:07:00.529901,survey,UK,16c6cf62-8019-4941-ace4-840cf9dafd8d,3,Okay,0.2263,positive
+2025-06-01T04:01:00.529901,survey,IN,cf559f46-f277-4698-820d-6925e77b2ea2,5,Loved the product,0.5994,positive
+2025-06-02T13:27:00.529901,app,IN,8cdfc0ef-12dd-4a28-8d15-5b926369f5a7,3,Okay,0.2263,positive
+2025-05-28T06:58:00.529901,app,US,15b8487a-e11a-40fa-a65d-98666190d624,3,Average,0.0,neutral
+2025-05-28T11:19:00.529901,survey,IN,723f71ae-0f9e-4077-aaba-6c1d596583e2,1,App crashed,0.0,neutral
+2025-05-31T17:13:00.529901,email,AU,e600442e-a3c3-41a1-8916-7e296114d747,4,Good experience,0.4404,positive
+2025-05-30T20:53:00.529901,survey,UK,1c40e932-5c0c-4e77-96b8-c88166da014c,2,Slow response,0.0,neutral
+2025-05-28T19:42:00.529901,web,US,325b18f5-152c-44ee-8f39-3d03009ad64b,2,Slow response,0.0,neutral
+2025-05-28T04:58:00.529901,survey,IN,8d9813a1-054f-4bab-9348-be6f3e8ab165,3,Average,0.0,neutral
+2025-05-30T22:12:00.530896,app,US,acd6c64d-460d-4553-a575-d883bfd5ecd8,2,Not great,-0.5096,negative
+2025-06-01T00:36:00.530896,app,IN,6e1663f4-7b35-4195-ae75-f7fc814b310e,2,Not great,-0.5096,negative
+2025-06-03T16:12:00.530896,survey,IN,ed82aa99-4beb-4cb8-9b1f-76e9030da3ec,3,Okay,0.2263,positive
+2025-06-02T11:57:00.530896,email,IN,6e81aff7-3692-4050-9628-f33b26d81b33,1,Terrible experience,-0.4767,negative
+2025-06-03T09:38:00.530896,email,US,e43a6944-c888-4ac4-aded-46848073f7e2,5,Excellent!,0.6114,positive
+2025-05-28T19:26:00.530896,app,IN,84fc0eca-118b-4e66-8d66-2175a0e66c2f,2,Slow response,0.0,neutral
+2025-05-31T20:22:00.530896,web,AU,3ac0942b-c8ac-4150-a5df-9aa6a0e391f5,3,Okay,0.2263,positive
+2025-06-01T16:40:00.530896,app,UK,ab99d997-a64a-4097-8a92-187ac85a4298,4,Good experience,0.4404,positive
+2025-05-31T09:33:00.530896,survey,AU,0528d07d-89e9-4f34-8c69-cd28385ca8dc,2,Slow response,0.0,neutral
+2025-05-30T21:36:00.530896,survey,UK,27d000fe-9a7e-4454-ba3a-9076881ab60d,3,Okay,0.2263,positive
+2025-06-02T23:04:00.530896,survey,AU,c4d08438-5073-4524-8be3-7abafc71a5a9,2,Not great,-0.5096,negative
+2025-06-01T19:44:00.530896,email,AU,b40a6127-1588-4c6a-b410-f671b2855884,4,Good experience,0.4404,positive
+2025-05-30T19:40:00.530896,app,US,ca3a3cd5-7623-4bc9-915c-cf1df2e2416a,5,Loved the product,0.5994,positive
+2025-05-31T12:44:00.530896,app,UK,e62702dc-2aea-4057-9ca9-400d888c3b7d,5,Excellent!,0.6114,positive
+2025-06-03T21:42:00.530896,survey,UK,c1991206-e327-4231-a6c7-898140e436af,3,Average,0.0,neutral
+2025-06-02T13:47:00.530896,web,US,74e58068-d28b-48e2-b83d-a2b4327141aa,2,Not great,-0.5096,negative
+2025-05-29T00:35:00.530896,web,US,0d9df99b-3cfe-4d99-8bd7-75aa4e4c82fe,1,Terrible experience,-0.4767,negative
+2025-05-29T13:11:00.530896,email,AU,b35ede58-30a5-46c2-86bf-8d396f436f4f,1,App crashed,0.0,neutral
+2025-05-30T11:03:00.530896,survey,AU,9407c520-7fdf-4237-bb9b-488796273987,3,Okay,0.2263,positive
+2025-05-30T00:54:00.530896,web,UK,5dbd94ae-1502-4d0b-8369-835d56689af0,2,Slow response,0.0,neutral
+2025-06-02T18:29:00.530896,app,IN,7f376f50-3687-4884-b94e-3559dc360efd,1,Terrible experience,-0.4767,negative
+2025-05-29T15:04:00.530896,survey,AU,93f655e0-29ea-4b17-aa23-e355b6d38a88,5,Excellent!,0.6114,positive
+2025-05-28T11:44:00.530896,survey,AU,cd926ba8-34d8-4ea4-8286-5db8477f1cbe,1,App crashed,0.0,neutral
+2025-05-30T17:17:00.530896,survey,UK,1925f4dc-e727-433f-93a7-d35b7be231ec,4,Nice UI,0.4215,positive
+2025-06-03T21:00:00.530896,app,UK,476c0c68-99df-473b-ad2e-679038573bbc,2,Slow response,0.0,neutral
+2025-06-03T13:07:00.530896,app,UK,7d9e16be-74ed-46d7-bd2c-837fe73cfcf2,3,Okay,0.2263,positive
+2025-05-29T00:33:00.530896,web,UK,31e5eb35-e851-41c4-9898-23a3ed78d5c6,4,Nice UI,0.4215,positive
+2025-06-02T23:51:00.530896,web,IN,c5c39fa4-9b37-4bed-bb92-c4ddc259bf97,5,Excellent!,0.6114,positive
+2025-05-31T03:54:00.530896,app,IN,e1fb6f60-0c4e-4b3f-b6a7-11671108a3e5,5,Loved the product,0.5994,positive
+2025-05-31T14:11:00.530896,app,UK,f4994934-a5ea-4968-aea6-56ba6cba6c82,2,Not great,-0.5096,negative
+2025-06-02T08:17:00.530896,email,US,15db4f79-3cf3-48d6-993b-e7bde591312f,4,Nice UI,0.4215,positive
+2025-05-31T11:20:00.530896,app,AU,d61fb836-c466-451f-a322-5ca1970591b1,3,Average,0.0,neutral
+2025-05-29T00:01:00.530896,app,UK,80dcbfa2-4b33-49b8-bac9-2388cd60010d,2,Not great,-0.5096,negative
+2025-06-01T14:46:00.530896,email,UK,64257108-8287-4bd7-89a4-38e1c11c2a84,5,Loved the product,0.5994,positive
+2025-06-01T12:02:00.530896,email,AU,4210d3ae-3906-4eac-8c72-18f0f8bba0aa,3,Average,0.0,neutral
+2025-05-30T04:30:00.530896,app,AU,172a116e-5dac-4fac-a156-adb71774248f,4,Nice UI,0.4215,positive
+2025-05-30T15:18:00.530896,app,AU,a1280505-62a0-4bd7-85f7-209f77157eee,3,Average,0.0,neutral
+2025-06-02T22:42:00.530896,email,AU,2e4fdbf0-1e49-4040-8f20-c974b4948131,1,App crashed,0.0,neutral
+2025-05-31T21:00:00.530896,web,UK,1b264535-8498-4a04-b2e6-bb67ecab0647,3,Okay,0.2263,positive
+2025-05-29T01:25:00.530896,survey,IN,d9a5b55c-1e50-4b15-9310-73ae5f74fa37,3,Okay,0.2263,positive
+2025-05-29T03:13:00.530896,survey,US,37b7d214-c1e9-4438-9a83-d0d86f91ea08,5,Loved the product,0.5994,positive
+2025-05-31T23:07:00.530896,survey,IN,b4192070-5e9f-4ed2-b7ac-d39ad791cab0,1,App crashed,0.0,neutral
+2025-05-30T00:23:00.530896,app,AU,3669918e-164f-48b0-94c3-f95e7f3edc25,5,Excellent!,0.6114,positive
+2025-06-01T02:26:00.530896,email,UK,8d2a01e8-9830-46c5-adac-56e1a97e60fd,4,Good experience,0.4404,positive
+2025-05-29T12:23:00.530896,web,UK,7b1bf325-862e-4ab1-b1d9-cf6a081f2862,3,Average,0.0,neutral
+2025-05-29T00:51:00.530896,survey,IN,65f153e9-212a-47de-b908-44b1770c5034,4,Nice UI,0.4215,positive
+2025-06-02T12:47:00.530896,app,IN,ac039829-5a90-4590-8303-5f9932464ed8,4,Good experience,0.4404,positive
+2025-06-01T22:56:00.530896,web,IN,75184013-6a22-488a-b9bf-839ba9cfc7af,4,Good experience,0.4404,positive
+2025-05-31T22:15:00.530896,survey,IN,3ebce3d7-af22-4cd4-86fd-d9dc1de9d0be,5,Loved the product,0.5994,positive
+2025-05-31T08:01:00.530896,email,UK,699e0544-b5b4-4e2f-b9ff-e174dc242245,3,Okay,0.2263,positive
+2025-06-01T02:05:00.530896,email,US,25248a55-17e9-47f5-b142-d272fca3fd4d,1,Terrible experience,-0.4767,negative
+2025-05-28T09:28:00.530896,app,AU,e774071d-c6b2-47df-94de-2eaedf320fe1,5,Excellent!,0.6114,positive
+2025-06-04T02:21:00.530896,web,AU,ea124818-421e-4a9a-b2a5-f1b6ad15f668,3,Okay,0.2263,positive
+2025-06-02T12:54:00.530896,survey,US,5acaf11b-9423-47b8-837c-a8c62d9b9172,2,Slow response,0.0,neutral
+2025-05-30T00:03:00.530896,web,AU,615ad1fd-fa5d-4130-9007-7736a147bec0,2,Slow response,0.0,neutral
+2025-05-31T09:18:00.530896,survey,US,bbae7698-a3e3-4aca-8e9f-f5cebb7213b0,1,Terrible experience,-0.4767,negative
+2025-05-30T13:54:00.530896,email,UK,c2397bdc-d3a8-4ff1-8531-4551c651e592,2,Not great,-0.5096,negative
+2025-06-02T11:19:00.530896,app,US,877d68ea-eac0-4f0d-a7cc-f96190ab0fd3,3,Average,0.0,neutral
+2025-06-02T12:55:00.530896,web,IN,4172b448-bb90-4b60-b6f8-0d8f786a3cc2,5,Excellent!,0.6114,positive
+2025-06-02T01:22:00.530896,survey,UK,732a4679-d005-4ca0-8391-2337c4353fe2,1,App crashed,0.0,neutral
+2025-06-03T06:27:00.530896,app,US,570e32dc-cdf5-46d4-84bc-bee35852c5f8,1,Terrible experience,-0.4767,negative
+2025-06-01T00:52:00.530896,email,UK,959b2a1d-50e9-495d-8e0d-fefe2b25ebae,3,Okay,0.2263,positive
